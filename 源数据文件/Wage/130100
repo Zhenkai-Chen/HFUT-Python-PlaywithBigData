@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="en"/>
+<!--<meta content="width=device-width, initial-scale=1" name="viewport" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no,shrink-to-fit=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Cache-Control" content="no-transform " />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="author" content="薪酬网" />
+<meta name="Copyright" content="薪酬网"/>
+
+    <title>2021年石家庄市平均工资-薪酬网</title>
+    <meta name="keywords" content="石家庄市平均工资" />
+    <meta name="description" content="薪酬网提供中国各地2021年全国各地各行业各职位的平均工资查询" />
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/5.0.0-beta2/css/bootstrap.min.css">
+<link href="/frontend/assets/public/fonts/fontawesome-v5.13.0/web/css/all.min.css" rel="stylesheet" type="text/css" />
+<link rel='stylesheet' href="/frontend/assets/display/default/assets/css/skin/salaryStyle.css">
+<script src="/frontend/assets/public/plugins/jquery/jquery-3.5.1.min.js"></script><!--[if lt IE 9]>
+<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]--></head>
+<body>
+
+<header class="page-header-top top_display hide-sm" >
+    <div class="container">
+        <div class="d-flex justify-content-between">
+            <div class="col-lg-6 d-flex justify-content-start">
+                <p class="login-info" style="margin: 0">
+                    <span>Hi薪酬网欢迎你！</span>
+                    <a href="https://www.xinchou.com/Member/Login" class="blue" target="_blank">登录</a>
+                    <a href="/Member/Index/" class="blue" target="_blank">会员中心</a> 或
+                    | <a class="blue disabled" href="https://www.xinchou.com/Member/Register/employer" onclick="alert('HR注册模块正在开发，请先注册个人会员');return false;">雇主注册</a>
+                    | <a href="https://www.xinchou.com/Member/Register/normal" class="blue" target="_blank">个人注册</a>
+                </p>
+            </div>
+            <div class="col-lg-6 d-flex justify-content-end">
+                <p class="login-info"  style="margin: 0">
+                    <a href="https://www.xinchou.com/Common/Invest" class="blue" target="_blank" title="欢迎任何形式的薪酬调查报告合作">商务合作</a> |
+                    <a href="https://www.xinchou.com/Common/Enquiry" class="blue" target="_blank" title="如客服不在线可直接留言">联系客服</a> |
+                    <a href="https://info.xinchou.com" class="blue" target="_blank" title="薪酬资讯 薪酬报告">薪酬网资讯</a> |
+                    <a href="https://www.xinchou.com/Common/ShortCut" class="blue" title="把本站地址保存在本地 方便下次打开">本站存到桌面</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</header><link href="/frontend/assets/public/css/nav/nav.min.css" rel="stylesheet" type="text/css"/>
+<header>
+    <nav class="navbar-expand-lg">
+        <div class="page-wrapper">
+            <div class="page-wrapper-row">
+                <div class="page-wrapper-top">
+                    <div class="page-header">
+                        <div class="page-header-top">
+                            <div class="container justify-content-between">
+                                    <div class="page-header-top-logo-toggler">
+                                        <div class="page-logo">
+                                            <a href="https://www.xinchou.com">
+                                                <img src="/upfiles/attachments/file/20150611/20150611202226_602.png" alt="logo" class="logo-default">
+                                            </a>
+                                        </div>
+                                        <a href="javascript:;" class="menu-toggler"></a>
+                                    </div>
+                                    <div class="top-menu text-right">
+                                        <div class="pull-right d-flex justify-content-end">
+                                            <div class="btn-group btn-group-sm" role="group" aria-label="Basic example">
+                                                <a type="button" href="https://www.xinchou.com/Member/register/normal" class="btn btn-outline-violet btn-xs" target="_blank"><i class="fal fa-user-plus"></i> 注册</a>
+                                                <a type="button" href="https://www.xinchou.com/Member/index/" class="btn btn-violet btn-xs" target="_blank"><i class="fal fa-sign-in"></i><span class="hide-sm"> 登录/会员中心</span></a>
+                                            </div>
+                                            <a type="button" href="https://www.xinchou.com/Common/Enquiry" class="btn btn-outline-secondary btn-sm btn-xs" target="_blank"><i class="fad fa-question p-0"></i><span class="hide-sm"> Submit Ticket</span></a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="page-header-menu">
+                            <div class="container">
+                                <div class="hor-menu  ">
+                                    <ul class="nav navbar-nav">
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="https://www.xinchou.com/" title="首页">首页</a>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="javascript:void(0);">薪酬报告 <i class="fal fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu pull-left">
+                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://position.xinchou.com" title="职位薪酬报告" class="nav-link  ">职位薪酬报告</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://graduate.xinchou.com" title="毕业生薪酬报告" class="nav-link  ">毕业生薪酬报告</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://major.xinchou.com" title="大学专业薪酬报告" class="nav-link  ">大学专业薪酬报告</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://welfare.xinchou.com" title="福利报告" class="nav-link  ">福利报告</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Survey" title="薪酬满意度调查" class="nav-link  ">薪酬满意度调查</a>
+                                                </li>
+                                                                                                                                            </ul>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="javascript:void(0);">薪酬排行榜 <i class="fal fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu pull-left">
+                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/ChineseCollege/Wages" title="高校薪酬排行榜" class="nav-link  ">高校薪酬排行榜</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://position.xinchou.com/Ranking" title="职位收入排行榜" class="nav-link  "> <i class="fad fa-chart-bar "></i> 职位收入排行榜</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://major.xinchou.com/Ranking" title="大学专业收入排行榜" class="nav-link  "> <i class="fad fa-chart-bar "></i> 大学专业收入排行榜</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://graduate.xinchou.com/Ranking" title="大学应届生收入排行榜" class="nav-link  "> <i class="fad fa-chart-bar "></i> 大学应届生收入排行榜</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://welfare.xinchou.com/Ranking" title="企业发放福利排行榜" class="nav-link  "> <i class="fad fa-chart-bar "></i> 企业发放福利排行榜</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://averagewage.xinchou.com/Ranking/provinces/" title="各省工资排行榜" class="nav-link  "> <i class="fad fa-chart-pie-alt "></i> 各省工资排行榜</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://averagewage.xinchou.com/Ranking/cities/" title="各城市工资排行榜" class="nav-link  "> <i class="fad fa-chart-bar "></i> 各城市工资排行榜</a>
+                                                </li>
+                                                                                                                                            </ul>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="javascript:void(0);">薪酬指数 <i class="fal fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu pull-left">
+                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/ChineseCollege/Indexes" title="高校薪酬指数" class="nav-link  ">高校薪酬指数</a>
+                                                </li>
+                                                                                                                                            </ul>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="javascript:void(0);">社保查询 <i class="fal fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu pull-left">
+                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/InsuranceBase" title="社保基数查询" class="nav-link  ">社保基数查询</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Insurance/Bureau" title="社保局查询" class="nav-link  ">社保局查询</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Insurance/Housing" title="住房公积金查询" class="nav-link  "> <i class="fad fa-home-heart "></i> 住房公积金查询</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Insurance/Health" title="医疗保险查询" class="nav-link  "> <i class="fad fa-hospital "></i> 医疗保险查询</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Insurance/Pension" title="养老保险查询" class="nav-link  "> <i class="fad fa-wheelchair "></i> 养老保险查询</a>
+                                                </li>
+                                                                                                                                            </ul>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="javascript:void(0);">薪酬计算器 <i class="fal fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu pull-left">
+                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/AfterTax" title="税后工资计算器" class="nav-link  ">税后工资计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Tax" title="个人所得税计算器" class="nav-link  ">个人所得税计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/HousingFund" title="公积金计算器" class="nav-link  ">公积金计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/SocialSecurity" title="社保计算器" class="nav-link  ">社保计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/DismissalCompensation" title="裁员补偿金计算器" class="nav-link  ">裁员补偿金计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Tools/USCompanySalary" title="美国收入比较计算器" class="nav-link  ">美国收入比较计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Tools/PensionPrediction" title="养老金计算器" class="nav-link  ">养老金计算器</a>
+                                                </li>
+                                                                                                                                                                                                <li aria-haspopup="true" class="">
+                                                    <a href="https://www.xinchou.com/Tools/CurrencyRate" title="实时汇率" class="nav-link  ">实时汇率</a>
+                                                </li>
+                                                                                                                                            </ul>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown  active ">
+                                                                                        <a href="https://www.xinchou.com/AverageWage" title="全国平均工资">全国平均工资</a>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="https://www.xinchou.com/MinWage" title="最低工资标准">最低工资标准</a>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="https://www.xinchou.com/College" title="高校薪酬">高校薪酬</a>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="https://www.xinchou.com/LivingCost" title="生活成本">生活成本</a>
+                                                                                    </li>
+                                                                                <li aria-haspopup="true" class="menu-dropdown classic-menu-dropdown ">
+                                                                                        <a href="https://www.xinchou.com/TalentAssessment" title="人才测评">人才测评</a>
+                                                                                    </li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><script>
+    document.write('<script src="/frontend/assets/public/plugins/hcharts/js/Highmaps-8.0.0/code/highmaps.js"><\/script>');
+    document.write('\<script src="/frontend/assets/public/plugins/hcharts/js/Highcharts-8.0.0/code/highcharts-more.js"><\/script>');
+    document.write('\<script src="/frontend/assets/public/plugins/hcharts/js/exporting.js"><\/script>');
+</script>
+<section class="container mt-3" id="full-container">
+    <div class="row">
+        <main class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-xs-12" id="div">
+            <!--district starts-->
+<div class="card d-xl-none9">
+    <div class="js-actionParent">
+        <div class="input-group describe qs-temp js-showActionSheet"  data-type="region" data-base="QS_region_parent" data-source="QS_region" data-multiple="false" data-num="1" data-link="false" data-level="2" data-goto='1' data-gotourl="/AverageWage/"             id="J_showmodal_city" data-title="请选择城市" data-multiple="false" data-maxnum="1" data-width="518"   data-category="2"  data-addjob="true">
+            <div class="input-group-prepend">
+                <div class="input-group-text">
+                    <span class="input-group-addon"><i class="fal fa-globe-asia"></i></span>
+                </div>
+            </div>
+            <input type="text" class="qs-temp-txt-region result J_resuletitle_city form-control rounded-right"  value="河北省/石家庄市" placeholder="请选择城市" id="region_code_name" name="region_code_name" autocomplete="off" />
+            <input class="qs-temp-code-region J_resultcode_city" name="region_code" id="region_code" type="hidden"  value="130000.130100.0" keep="" />
+
+            <label class="input-group-text" ><i class="fal fa-bars"></i></label>
+        </div>
+        <div id="show_dropdown_region"></div>
+    </div>
+</div>            <div class="state-overview">
+                <div class="card">
+                    <h1 class="card-header">
+                        石家庄市2021年平均工资(税前)
+                    </h1>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6 symbol bg-warning middle " style="height: 120px;display: inline-block;vertical-align: middle;">
+                                <i class="fad fa-hand-holding-usd" style="font-size:5rem"></i>
+                            </div>
+                            <div class="col-md-6 value">
+
+                                <div class="text-center justify-content-between">
+                                    <p> <span><i class="fad fa-yen-sign"></i></span> <span  style="font-size:3rem">5690.66</span><span><small style="font-size:12px">CNY</small></span></p>
+                                    <p class="justify-content-right text-right">
+                                        <span class=""> <small><i class="fal fa-clock"></i> 2021-06-10 17:06:18</small></span>
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+
+                        <div class="col-12">
+                            <div id="container-map" >
+                                <div class="card">
+                                    <div class="card-body align-self-center d-flex justify-content-center">
+                                        <div class="spinner-border text-warning" role="status">
+                                            <span class="sr-only">Loading...</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header bg-transparent">
+                    石家庄市 2021年 整体工资（税前月薪）分位值
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">石家庄市 2021年 整体工资（税前月薪）分位值</h5>
+                    <table class="table table-hover">
+                        <thead>
+                        <tr>
+                                                        <th>10分位</th>
+                                                        <th>25分位</th>
+                                                        <th>50分位</th>
+                                                        <th>75分位</th>
+                                                        <th>90分位</th>
+                                                    </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                                                        <td>3000 <small>元</small></td>
+                                                        <td>4000 <small>元</small></td>
+                                                        <td>5000 <small>元</small></td>
+                                                        <td>6000 <small>元</small></td>
+                                                        <td>9000 <small>元</small></td>
+                                                    </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+                        <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+    <div class="card-body">
+
+        <!-- xinchou.com -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-9980647367025998"
+             data-ad-slot="4262995228"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header bg-transparent">
+                    石家庄市 2021年 整体工资分位值<small>（税前月薪）</small>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">石家庄市 2021年 整体工资分位值<small>（税前月薪）</small></h5>
+                    <div id="container" style="min-width:400px;height:400px">
+
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card-body">
+                <h3 class="card-header bg-secondary rounded-0 rounded-top text-white">与石家庄市平均工资相关的其他查询</h3>
+                <div class="list-group rounded-bottom">
+                                        <a href="/InsuranceBase/130100" class="list-group-item list-group-item-action list-group-item-info" target="_self" title="石家庄市社保基数查询">石家庄市社保基数查询</a>
+                                        <a href="/MinWage/130100" class="list-group-item list-group-item-action list-group-item-info" target="_self" title="石家庄市最低工资标准">石家庄市最低工资标准</a>
+                                        <a href="/Insurance/Pension_130100" class="list-group-item list-group-item-action list-group-item-info" target="_self" title="石家庄市养老保险查询">石家庄市养老保险查询</a>
+                                        <a href="/Insurance/Health_130100" class="list-group-item list-group-item-action list-group-item-info" target="_self" title="石家庄市医疗保险查询">石家庄市医疗保险查询</a>
+                                        <a href="/Insurance/Housing_130100" class="list-group-item list-group-item-action list-group-item-info" target="_self" title="石家庄市住房公积金查询">石家庄市住房公积金查询</a>
+                                    </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card-body">
+                <h3 class="card-header bg-secondary rounded-top text-white">与石家庄市平均工资相关的计算器</h3>
+                <div class="list-group rounded-bottom">
+                                        <a href="/SocialSecurity/130100" class="list-group-item list-group-item-action list-group-item-dark"  target="_self" title="石家庄市社保计算器">石家庄市社保计算器</a>
+                                        <a href="/AfterTax/130100" class="list-group-item list-group-item-action list-group-item-dark"  target="_self" title="石家庄市税后工资计算器">石家庄市税后工资计算器</a>
+                                        <a href="/Tax/130100" class="list-group-item list-group-item-action list-group-item-dark"  target="_self" title="石家庄市个人所得税计算器">石家庄市个人所得税计算器</a>
+                                        <a href="/HousingFund/130100" class="list-group-item list-group-item-action list-group-item-dark"  target="_self" title="石家庄市公积金计算器">石家庄市公积金计算器</a>
+                                        <a href="/Tools/PensionPrediction" class="list-group-item list-group-item-action list-group-item-dark"  target="_self" title="石家庄市退休金计算器">石家庄市退休金计算器</a>
+                                        <a href="/DismissalCompensation/130100" class="list-group-item list-group-item-action list-group-item-dark"  target="_self" title="石家庄市裁员补偿金计算器">石家庄市裁员补偿金计算器</a>
+                                        <a href="/LivingCost_130100" class="list-group-item list-group-item-action list-group-item-dark"  target="_blank" title="石家庄市生活成本计算器">石家庄市生活成本计算器</a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>            <div class="card text-white bg-success mb-3">
+                <h2 class="card-header">平均工资</h2>
+                <div class="card-body">
+                    <h4 class="card-title">什么是“平均工资”？</h4>
+                    <p class="card-text text-white">
+                        <strong>“平均工资”是指反映特定行业、领域、地区中存在雇佣关系且根据雇用合约，雇主周期性给付给劳工的报酬（广义上的工资，还包括各种以现金发放的薪酬，例如津贴）的整体水平的表现。平均工资并不等于“平均收入”。</strong><br>
+                        常态情况下，大学毕业或以上程度易获高薪；以下或辍学则易获低薪。<br>
+                    </p>
+                </div>
+            </div>
+
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                本栏目数据全部来自自有智能数据模型实时运算所得，没有也不会参考任何机构，结果仅供参考！<br>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            <div class="card border-info  bg-info text-white">
+    <div class="card-body border-info">
+        <h5 class="card-title"><i class="fad fa-exclamation-triangle"></i> Notice!</h5>
+        <h6 class="card-subtitle mb-2 text-muted"></h6>
+        <p class="text-white">本《
+                        2021年石家庄市平均工资》的运算结果均来自<a href="https://www.xinchou.com" title="薪酬网" class="text-white">薪酬网</a>自行研发设计的运算模型（没有也不会参考任何机构）结果仅供参考！；<br>
+            其运算基数均来自当地相关部门公开的数据或合作机构，并在此基础上分类整理得出；<br>
+            <strong>其结果与当地官方公布的结果并无任何关系；</strong><br>
+            目前系统在处理本栏目数据可能回因为样本偏离度和数量问题导致一些异常，虽尽力甄选但因精力有限无法保证数据绝对准确，因此该结果仅供参考，对此结果本站不承担也不承诺任何责任！<br>
+        </p>
+    </div>
+    <div class="card-footer text-white"><i class="fad fa-exclamation"></i> 未经本站书面授权，任何内容不得转载（自媒体可以转载，但是必须注明我站网址和名称）！否则追究法律责任！</div>
+</div>        </main>
+
+        <aside class="col-xl-3 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="card">
+    <div class="card-header bg-transparent"><i class="fad fa-thumbtack"></i> 选择省/直辖市</div>
+
+    <div class="card-body">
+        <div id="city_list_default">
+            <h6 class="card-title">
+                <a title="平均工资" href="/AverageWage"  >全国</a>  <a title="河北省平均工资" href="/AverageWage/130000"> > 河北省</a>            </h6>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="北京平均工资" href="/AverageWage/110000">北京</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="天津平均工资" href="/AverageWage/120000">天津</a>
+                        <a type="button" class="btn btn-light
+            btn-violet
+  btn-sm mb-1
+" title="河北省平均工资" href="/AverageWage/130000">河北省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="山西省平均工资" href="/AverageWage/140000">山西省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="内蒙平均工资" href="/AverageWage/150000">内蒙</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="辽宁省平均工资" href="/AverageWage/210000">辽宁省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="吉林省平均工资" href="/AverageWage/220000">吉林省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="黑龙江省平均工资" href="/AverageWage/230000">黑龙江省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="上海平均工资" href="/AverageWage/310000">上海</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="江苏省平均工资" href="/AverageWage/320000">江苏省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="浙江省平均工资" href="/AverageWage/330000">浙江省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="安徽省平均工资" href="/AverageWage/340000">安徽省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="福建省平均工资" href="/AverageWage/350000">福建省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="江西省平均工资" href="/AverageWage/360000">江西省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="山东省平均工资" href="/AverageWage/370000">山东省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="河南省平均工资" href="/AverageWage/410000">河南省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="湖北省平均工资" href="/AverageWage/420000">湖北省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="湖南省平均工资" href="/AverageWage/430000">湖南省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="广东省平均工资" href="/AverageWage/440000">广东省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="广西平均工资" href="/AverageWage/450000">广西</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="海南省平均工资" href="/AverageWage/460000">海南省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="重庆平均工资" href="/AverageWage/500000">重庆</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="四川省平均工资" href="/AverageWage/510000">四川省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="贵州省平均工资" href="/AverageWage/520000">贵州省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="云南省平均工资" href="/AverageWage/530000">云南省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="西藏平均工资" href="/AverageWage/540000">西藏</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="陕西省平均工资" href="/AverageWage/610000">陕西省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="甘肃省平均工资" href="/AverageWage/620000">甘肃省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="青海省平均工资" href="/AverageWage/630000">青海省</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="宁夏平均工资" href="/AverageWage/640000">宁夏</a>
+                        <a type="button" class="btn btn-light
+  btn-sm mb-1
+" title="新疆平均工资" href="/AverageWage/650000">新疆</a>
+                    </div>
+    </div>
+</div>
+<div class="card">
+    <h6 class="card-header bg-transparent"><i class="fad fa-thumbtack"></i> 选择城市</h6>
+    <div class="card-body">
+        <div id="city_list_default1" >
+            <h6 class="card-title">
+                                <a title="河北省平均工资" href="/AverageWage/130000" >
+                    河北省
+                </a>
+                <a title="石家庄市平均工资" href="/AverageWage/130100"> >
+                    石家庄市
+                </a>
+                            </h6>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130100" class="btn btn-light btn-violet btn-sm mb-1">石家庄市</a>
+                        <a type="button" title="唐山市平均工资" href="/AverageWage/130200" class="btn btn-light  btn-sm mb-1">唐山市</a>
+                        <a type="button" title="秦皇岛市平均工资" href="/AverageWage/130300" class="btn btn-light  btn-sm mb-1">秦皇岛市</a>
+                        <a type="button" title="邯郸市平均工资" href="/AverageWage/130400" class="btn btn-light  btn-sm mb-1">邯郸市</a>
+                        <a type="button" title="邢台市平均工资" href="/AverageWage/130500" class="btn btn-light  btn-sm mb-1">邢台市</a>
+                        <a type="button" title="保定市平均工资" href="/AverageWage/130600" class="btn btn-light  btn-sm mb-1">保定市</a>
+                        <a type="button" title="张家口市平均工资" href="/AverageWage/130700" class="btn btn-light  btn-sm mb-1">张家口市</a>
+                        <a type="button" title="承德市平均工资" href="/AverageWage/130800" class="btn btn-light  btn-sm mb-1">承德市</a>
+                        <a type="button" title="沧州市平均工资" href="/AverageWage/130900" class="btn btn-light  btn-sm mb-1">沧州市</a>
+                        <a type="button" title="廊坊市平均工资" href="/AverageWage/131000" class="btn btn-light  btn-sm mb-1">廊坊市</a>
+                        <a type="button" title="衡水市平均工资" href="/AverageWage/131100" class="btn btn-light  btn-sm mb-1">衡水市</a>
+                    </div>
+    </div>
+</div>
+<div class="card">
+    <h6 class="card-header bg-transparent"><i class="fad fa-thumbtack"></i> 选择城区</h6>
+    <div class="card-body">
+        <div id="city_list_default1" >
+            <h6 class="card-title">
+                                <a title="石家庄市平均工资" href="/AverageWage/130100" >
+                    石家庄市
+                </a>
+
+                <a title="石家庄市平均工资" href="/AverageWage/0"> >
+                    
+                </a>
+                
+
+            </h6>
+
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130102" class="btn btn-light  btn-sm mb-1"> 长安区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130104" class="btn btn-light  btn-sm mb-1"> 桥西区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130105" class="btn btn-light  btn-sm mb-1"> 新华区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130107" class="btn btn-light  btn-sm mb-1"> 井陉矿区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130108" class="btn btn-light  btn-sm mb-1"> 裕华区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130109" class="btn btn-light  btn-sm mb-1"> 藁城区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130110" class="btn btn-light  btn-sm mb-1"> 鹿泉区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130111" class="btn btn-light  btn-sm mb-1"> 栾城区</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130121" class="btn btn-light  btn-sm mb-1"> 井陉县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130123" class="btn btn-light  btn-sm mb-1"> 正定县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130125" class="btn btn-light  btn-sm mb-1"> 行唐县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130126" class="btn btn-light  btn-sm mb-1"> 灵寿县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130127" class="btn btn-light  btn-sm mb-1"> 高邑县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130128" class="btn btn-light  btn-sm mb-1"> 深泽县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130129" class="btn btn-light  btn-sm mb-1"> 赞皇县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130130" class="btn btn-light  btn-sm mb-1"> 无极县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130131" class="btn btn-light  btn-sm mb-1"> 平山县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130132" class="btn btn-light  btn-sm mb-1"> 元氏县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130133" class="btn btn-light  btn-sm mb-1"> 赵县</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130181" class="btn btn-light  btn-sm mb-1"> 辛集市</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130183" class="btn btn-light  btn-sm mb-1"> 晋州市</a>
+                        <a type="button" title="石家庄市平均工资" href="/AverageWage/130184" class="btn btn-light  btn-sm mb-1"> 新乐市</a>
+            
+        </div>
+    </div>
+</div>
+            <div class="card">
+                <div class="card-header bg-transparent"><i class="fad fa-calendar-alt"></i> 选择时间 <small style="color: #999;">(当前选择：2021年)</small></div>
+                <div class="card-body">
+
+                                        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+                        <a type="button" class="btn btn-outline-secondary " href="/AverageWage/130100/2017"  >2017年</a>
+
+                        <div class="btn-group" role="group">
+                            <button id="btnGroupDrop1" type="button" class="btn btn-outline-secondary dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">
+                                按月
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2017-10">2017-10</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2017-11">2017-11</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2017-12">2017-12</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+                        <a type="button" class="btn btn-outline-secondary " href="/AverageWage/130100/2018"  >2018年</a>
+
+                        <div class="btn-group" role="group">
+                            <button id="btnGroupDrop1" type="button" class="btn btn-outline-secondary dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">
+                                按月
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-01">2018-01</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-02">2018-02</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-03">2018-03</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-04">2018-04</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-05">2018-05</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-06">2018-06</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-07">2018-07</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-08">2018-08</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-09">2018-09</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-10">2018-10</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-11">2018-11</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2018-12">2018-12</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+                        <a type="button" class="btn btn-outline-secondary " href="/AverageWage/130100/2019"  >2019年</a>
+
+                        <div class="btn-group" role="group">
+                            <button id="btnGroupDrop1" type="button" class="btn btn-outline-secondary dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">
+                                按月
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-01">2019-01</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-02">2019-02</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-03">2019-03</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-04">2019-04</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-05">2019-05</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-06">2019-06</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-07">2019-07</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-08">2019-08</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-09">2019-09</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-10">2019-10</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-11">2019-11</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2019-12">2019-12</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+                        <a type="button" class="btn btn-outline-secondary " href="/AverageWage/130100/2020"  >2020年</a>
+
+                        <div class="btn-group" role="group">
+                            <button id="btnGroupDrop1" type="button" class="btn btn-outline-secondary dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">
+                                按月
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-01">2020-01</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-02">2020-02</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-03">2020-03</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-04">2020-04</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-05">2020-05</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-06">2020-06</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-07">2020-07</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-08">2020-08</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-09">2020-09</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-10">2020-10</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-11">2020-11</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2020-12">2020-12</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+                        <a type="button" class="btn btn-outline-secondary btn-violet" href="/AverageWage/130100/2021"  >2021年</a>
+
+                        <div class="btn-group" role="group">
+                            <button id="btnGroupDrop1" type="button" class="btn btn-outline-secondary dropdown-toggle btn-violet text-white" data-bs-toggle="dropdown" aria-expanded="false">
+                                按月
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2021-01">2021-01</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2021-02">2021-02</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2021-03">2021-03</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2021-04">2021-04</a></li>
+                                                                <li><a class="dropdown-item " href="/AverageWage/130100/2021-05">2021-05</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+            <div class="d-xl-block d-lg-block d-md-block">
+        <div class="btn-group mb-3" role="group" aria-label="Basic example">
+        <a type="button" class="btn btn-success" href="javascript:void(0)" onclick='public_modal("<i class=\"fad fa-comments text-success\"></i> 使用微信打赏","/upfiles/system/service/reward_qrcode.png")' >
+            <i class="fad fa-thumbs-up"></i> 打賞薪酬网
+        </a>
+        <a type="button" class="btn btn-outline-success" href="javascript:void(0)"
+           onclick='public_modal("<i class=\"fad fa-comments text-success\"></i> 使用微信关注薪酬网","/upfiles/system/service/qrcode_for_xinchou_com.jpg");' >
+            <i class="far fa-comments"></i> 关注薪酬网微信公众号
+        </a>
+    </div>
+    <style>
+    .card .row-cols-2 i,.row-cols-xs-2{
+        font-size:3rem;
+    }
+    .card .row-cols-10 i{
+        font-size:3rem;
+    }
+    @media (max-width: 768px) {
+        .row-cols-xs-2 > * {
+            -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+            max-width: 50%;
+        }
+    }
+</style>
+<div class="card">
+    <h3 class="card-header bg-transparent"><i class="fad fa-tools"></i> 薪酬计算器</h3>
+    <div class="card-body1">
+        <div class="row row-cols-xs-2   row-cols-md-2  ">
+            <a class="col" href="https://www.xinchou.com/AfterTax">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-hand-holding-usd"></i></div>
+                    <h6>税后工资计算器</h6>
+                </div>
+
+            </a>
+            <a class="col" href="https://www.xinchou.com/Tax">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-money-check-edit-alt"></i></div>
+                    <h6>个人所得税计算器</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/DismissalCompensation">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-envelope-open-dollar"></i></div>
+                    <h6>裁员补偿金计算器</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/HousingFund">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-home-alt"></i></div>
+                    <h6>公积金计算器</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/SocialSecurity">
+                <div class="card-body text-center">
+                    <div class=" text-violet" text-violet> <i class="fad fa-shield-check"></i></div>
+                    <h6>五险一金计算器</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/Tools/PensionPrediction">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-user-cowboy"></i></div>
+                    <h6>养老金计算器</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/InsuranceBase">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-umbrella-beach"></i></div>
+                    <h6>社保基数查询</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/MinWage">
+                <div class="card-body text-center">
+                    <div class="text-violet"> <i class="fad fa-donate"></i></div>
+                    <h6 class=" ">最低工资标准</h6>
+                </div>
+            </a>
+            <a class="col" href="https://www.xinchou.com/Tools/USCompanySalary">
+                <div class="card-body text-center">
+                    <div class=" text-violet"> <i class="fad fa-people-arrows"></i></div>
+                    <h6 class=" ">美国工资比较</h6>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
+    <div class="card">
+    <div class="card-body">
+
+        <!-- xinchou.com -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-9980647367025998"
+             data-ad-slot="4262995228"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+</div>        </aside>
+    </div>
+</section>
+<script>
+    $('#container').highcharts({
+        credits:{
+            enabled: true,
+            text:"薪酬网 https://www.xinchou.com",
+            href:"https://www.xinchou.com",
+            position:{x:-100,y:-60},
+            style:{
+                "z-index":"999",
+                color: '#666', "font-size": '12px',
+                fill: '#8e8686', "text-shadow": '8px 2px 16px #fdfdfd'
+            }
+        },
+        title: {
+            text: '税前月薪分位表',
+            x: -20 //center
+        },
+        subtitle: {
+            text: '不包含高管职位',
+            x: -20
+        },
+        xAxis: {
+            categories: ["10\u5206\u4f4d","25\u5206\u4f4d","50\u5206\u4f4d","75\u5206\u4f4d","90\u5206\u4f4d"]
+        },
+        yAxis: {
+            title: {
+                text: '税前月薪额'
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        tooltip: {
+            valueSuffix: ' 元'
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        series: [
+            {
+                name: '分位值',
+                data: [3000,4000,5000,6000,9000]
+            },
+        ]
+    });
+
+    var map = null;
+        var url="/Common/MapGeo/get?id=130000";
+        $.getJSON(url, function(mapdata) {
+        var data = [{"region_code":"130400","value":6178.73,"region_name":"\u90af\u90f8\u5e02"},{"region_code":"130700","value":5991.82,"region_name":"\u5f20\u5bb6\u53e3\u5e02"},{"region_code":"131000","value":5780,"region_name":"\u5eca\u574a\u5e02"},{"region_code":"131100","value":5762.46,"region_name":"\u8861\u6c34\u5e02"},{"region_code":"130200","value":5759.34,"region_name":"\u5510\u5c71\u5e02"},{"region_code":"130100","value":5573.75,"region_name":"\u77f3\u5bb6\u5e84\u5e02"},{"region_code":"130600","value":5561.64,"region_name":"\u4fdd\u5b9a\u5e02"},{"region_code":"130800","value":5505.3,"region_name":"\u627f\u5fb7\u5e02"},{"region_code":"130500","value":5413.7,"region_name":"\u90a2\u53f0\u5e02"},{"region_code":"130900","value":5388.89,"region_name":"\u6ca7\u5dde\u5e02"},{"region_code":"130300","value":5353.2,"region_name":"\u79e6\u7687\u5c9b\u5e02"}];
+        map = new Highcharts.Map('container-map', {
+            credits:{
+                enabled: true,
+                text:"薪酬网 https://www.xinchou.com",
+                href:"https://www.xinchou.com",
+                position:{x:-100,y:-120},
+                style:{
+                    "z-index":"9f9f9f",
+                    color: '#666', "font-size": '12px',
+                    fill: '#8e8686', "text-shadow": '8px 2px 16px #fdfdfd'
+                }
+            },
+            title: {
+                                text: '河北省2021年平均工资（不含基础岗位）',
+                
+            },
+            subtitle: {
+                text: '来源: <a href="https://www.xinchou.com">薪酬网-Xinchou.Com</a>'
+            },
+            mapNavigation: {
+                enabled: false,
+                buttonOptions: {
+                    verticalAlign: 'bottom'
+                }
+            },
+            colorAxis: {
+                min: 0,
+                minColor: '#ffffff',
+                maxColor: '#500363',
+                labels:{
+                    style:{
+                        "color":"#980043","fontWeight":"light"
+                    }
+                }
+            },
+            series: [{
+                data: data,
+                mapData: mapdata,
+                joinBy: ['adcode','region_code'],
+                name: '平均工资'
+            }],
+            tooltip: {
+                //headerFormat: '',
+                pointFormat: '{point.region_name}平均工资： <b>{point.value} CNY</b>'
+            },
+        });
+    });
+</script>
+<!-- foot-->
+<footer id="tom_footer" role="contentinfo">
+    <div class="footer-container">
+
+        <section id="footertop" class="footer-top">
+            <div class="footer_top_wrap">
+                <div class="container">
+                    <div class="row " data-wow-delay="200ms">
+                            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9 hidden-sm hidden-xs">
+                                <div class="block_aboutshop">
+                                    <div class="block_content">
+                                        <div class="logo-ft">
+                                            <div class="about hidden-md">
+                                                <h4 style="color:#7D8CA0"><strong>Xinchou.Com</strong></h4>
+                                            </div>
+                                        </div>
+
+                                        <div class="about hidden-md">
+                                            <p>Your Career Is Our Job</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                                <div id="social_block" class="social_block pull-right position-relative">
+                                    <div class="block_content">
+                                        <div id="socialShare"></div>
+                                        <!--
+                                                                                <a id="shareQQ">分享到QQ空间</a>
+                                                                                <button id="main"></button>
+                                                                                <ul class="list-unstyled clearfix">
+                                                                                </ul>
+                                                                                -->
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="footercenter" class="footer-center">
+            <div class="footer-center-wrap">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 " data-wow-delay="200ms">
+                            <div class="footer_quicklink">
+                                <div class="row">
+
+                                    <div class="col-md-3 col-sm-12 col-xs-12">
+
+                                        <div class="footer-block block footer_contact">
+
+                                            <h4 class="title_block">Contact</h4>
+
+                                            <div class="block_content" style="">
+                                                <ul class="footer_contact"><!--
+                                                    <li><i class="fad fa-map-marker-alt"></i>深南大道人力资源产业园1001号</li>
+                                                    <li><i class="fad fa-phone-square"></i>&#48;&#52;&#55;&#49;&#45;&#53;&#50;&#57;&#49;&#52;&#56;&#56;</li>-->
+                                                    <script>
+                                                        var emailaddress = ('Support'+'@' + 'xinchou'+'.com')
+                                                        document.write('<li><i class="far fa-envelope"></i><a href="mailto:' + emailaddress + '">' + emailaddress + '</a></li>')
+                                                    </script>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-2 col-sm-4 col-xs-12">
+                                        <div class="footer-block block" id="block_links_footer_1">
+                                            <h4 class="title_block">产品服务</h4>
+                                            <div class="block_content" style="">
+                                                <ul style="" class="toggle-footer list-unstyled">
+                                                    <li class="item">
+                                                        <a href="//salary.xinchou.com/Salary" title="薪酬调查" target="_blank">薪酬调查</a>
+                                                    </li>
+                                                    <li class="item">
+                                                        <a href="//info.xinchou.site" title="中国薪酬网" target="_blank">中国薪酬网</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="col-md-2 col-sm-4 col-xs-12">
+                                        <div class="footer-block block" id="block_links_footer_3">
+                                            <h4 class="title_block">使用帮助</h4>
+                                            <div class="block_content" style="">
+                                                <ul style="" class="toggle-footer list-unstyled">
+                                                    <li class="item">
+                                                        <a href="https://www.xinchou.com/Common/Enquiry" title="薪酬网在线客服" target="_blank">在线客服</a>
+                                                    </li>
+                                                    <li class="item">
+                                                        <a href="https://mail.xinchou.com" title="薪酬网邮件服务器" target="_blank">邮件系统</a>
+                                                    </li>
+
+                                                    <li class="item">
+                                                        <a href="https://www.xinchou.com/Common/Invest" title="商务合作">商务合作</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-12 col-xs-12">
+                                        <div id="newsletter_block" class="footer-block block inline">
+                                            <h4 class="title_block">
+                                                Newsletter
+                                            </h4>
+                                            <div class="block_content" style="">
+                                                <p class="des_newsletter">
+                                                    订阅我们的最新动态
+                                                </p>
+                                                <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+                                                    <div class="input-group">
+                                                        <input type="email" value="" placeholder="Your email ..." name="EMAIL" id="mail" class="newsletter-input form-control" aria-label="Your email ...">
+                                                        <span class="input-group-btn">
+              <button type="submit" class="button_mini btn" name="subscribe" id="subscribe">
+                  <i class="fal fa-angle-right icon-email"></i>
+              </button>
+            </span>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </section>
+
+        <section id="footernav" class="footer-nav">
+            <div id="powered" class="powered ">
+                <div class="container">
+                    <div class="copyright block">
+                        Powered by <a target="_blank" rel="nofollow" href="https://www.xinchou.com" title="薪酬网">Xinchou.Com</a><br>
+                        薪酬网 ? Copyright 2021.
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</footer>
+<div class="scroll-to-top">
+    <i class="fal fa-chevron-circle-up"></i>
+</div>
+<!-- js bootstrap  -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<script>
+    $(function () {
+        $('[data-bs-toggle="popover"]').popover()
+        $('.tooltip-show').mouseover(function(){
+            $(this).tooltip('show')
+        });
+        $('.tooltip-show').mouseout(function(){
+            $(this).tooltip('hide')
+        });
+    })
+</script><!-- js nav  -->
+<script src="/frontend/assets/public/js/app.js" type="text/javascript"></script>
+<script src="/frontend/assets/public/js/layout.js" type="text/javascript"></script><!-- js dialog-->
+<script src="/frontend/assets/public/plugins/Bootboxjs/bootbox.min.js"></script>
+<link rel="stylesheet" href="https://cdn.staticfile.org/jquery-confirm/3.3.4/jquery-confirm.min.css">
+<script src="https://cdn.staticfile.org/jquery-confirm/3.3.4/jquery-confirm.min.js"></script><!-- js public-->
+<script src="/frontend/assets/public/js/public.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script src="/data/c24a4ae4561e7b6b7216a30ab3437686.js"></script>
+<link href="/frontend/assets/public/plugins/seclect-layer/css/common.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/frontend/assets/public/plugins/seclect-layer/js/jquery.modal.userselectlayer.js"></script>
+<!--js third part-->
+<script>
+    var regexp=/\.(.top|.xyz)(\.[a-z0-9\-]+){1,2}\//ig;
+    var where =document.referrer;
+    if(!regexp.test(where))
+    {
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            var shabi="ba"+"idu";
+            var str="c5cbcf123"+"cd853332a3"+"1163744007a6a";
+            hm.src = "https://hm."+shabi+".com/hm.js?"+str;
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+        var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5687058'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/stat.php%3Fid%3D5687058%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+    }
+</script>
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-9980647367025998">
+</amp-auto-ads>
+
+<!-- js share-->
+<script type="text/javascript" src="/frontend/assets/public/plugins/share/share.js"></script>
+<script type="text/javascript" src="/frontend/assets/public/plugins/share/share_fun.js"></script>
+<script>
+    autoShare("https://www.xinchou.com/AverageWage/130100");
+</script></body>
+</html>

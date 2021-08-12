@@ -1,0 +1,1683 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="mobile-agent" content="format=html5; url=https://m.anjuke.com/cs/trendency/" />
+<meta name="location" content="province=湖南;city=长沙;coord=113.019597,28.203801">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="https://m.anjuke.com/cs/trendency/">
+<title>长沙房价网,2021长沙房价走势图,长沙二手房价格-安居客</title><meta name="keywords" content="长沙房价,长沙房价网,长沙房价趋势"/>
+<meta name="description" content="安居客长沙房价网，提供长沙2021年房价趋势、走势图，长沙二手房均价价格信息， 及时查询长沙房价走势、了解长沙房价上涨还是下跌，预测长沙房价涨跌情况，长沙房价多少钱一平米？长沙小区房价情况。"/>
+<link rel="canonical" href="https://cs.anjuke.com/market/" >
+    <meta name="baidu-site-verification" content="e8abd676df9f995bc969ac138b1c0f4d"/>
+    <meta name="sogou_site_verification" content="7rtgKfBjbl"/>
+    <meta name="360-site-verification" content="f7b8b308108b2c1c2de2825948822256" />
+    <meta name="google-site-verification" content="drkSj5A3WGSgkMXwzh6UfezwLEMsEXoQlMHL25oE1kA" />
+    <meta baidu-gxt-verify-token="9e7961d9a5d01603e5c2ae9bccffb9c2"/>
+    <meta name="shenma-site-verification" content="da9c53da88979ec98afae25b1ca3e43b" />
+    <link rel="stylesheet" rev="stylesheet" href="https://include.anjukestatic.com/anjuke-user/res/20210610.9657.0/b/Ershou_Web_Market_Market.css" type="text/css" />
+    
+
+            <link rel="shortcut icon" href="https://pages.anjukestatic.com/usersite/site/img/global/1/favicon.ico" type="image/ico" />
+        <link rel="icon" href="https://pages.anjukestatic.com/usersite/site/img/global/1/favicon.ico" type="image/ico" />
+            <!-- 熊掌号所需参数 -->
+    </head>
+<body>
+        <div class="navhead">
+    <div class="header-center clearfix">
+        <!-- LOGO -->
+        <a href="https://cs.anjuke.com" class="logo">anjuke</a>
+
+        <!-- Navigation -->
+            <div class="cityselect">
+        <div id="switch_apf_id_5" class="city-view" >
+            长沙<i class="iconfont triangle-down">&#xE030;</i>
+        </div>
+        <div id="city_list" class="city-list" style="display:none;">
+                        <dl>
+                <dt>华北东北</dt>
+                <dd>
+                                        <a href="https://beijing.anjuke.com/market/" title="北京房价网">北京</a>
+                                        <a href="https://tianjin.anjuke.com/market/" title="天津房价网">天津</a>
+                                        <a href="https://dalian.anjuke.com/market/" title="大连房价网">大连</a>
+                                        <a href="https://sjz.anjuke.com/market/" title="石家庄房价网">石家庄</a>
+                                        <a href="https://heb.anjuke.com/market/" title="哈尔滨房价网">哈尔滨</a>
+                                        <a href="https://sy.anjuke.com/market/" title="沈阳房价网">沈阳</a>
+                                        <a href="https://ty.anjuke.com/market/" title="太原房价网">太原</a>
+                                        <a href="https://cc.anjuke.com/market/" title="长春房价网">长春</a>
+                                        <a href="https://weihai.anjuke.com/market/" title="威海房价网">威海</a>
+                                        <a href="https://weifang.anjuke.com/market/" title="潍坊房价网">潍坊</a>
+                                        <a href="https://huhehaote.anjuke.com/market/" title="呼和浩特房价网">呼和浩特</a>
+                                        <a href="https://baotou.anjuke.com/market/" title="包头房价网">包头</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>华东地区</dt>
+                <dd>
+                                        <a href="https://shanghai.anjuke.com/market/" title="上海房价网">上海</a>
+                                        <a href="https://hangzhou.anjuke.com/market/" title="杭州房价网">杭州</a>
+                                        <a href="https://suzhou.anjuke.com/market/" title="苏州房价网">苏州</a>
+                                        <a href="https://nanjing.anjuke.com/market/" title="南京房价网">南京</a>
+                                        <a href="https://wuxi.anjuke.com/market/" title="无锡房价网">无锡</a>
+                                        <a href="https://jinan.anjuke.com/market/" title="济南房价网">济南</a>
+                                        <a href="https://qd.anjuke.com/market/" title="青岛房价网">青岛</a>
+                                        <a href="https://ks.anjuke.com/market/" title="昆山房价网">昆山</a>
+                                        <a href="https://nb.anjuke.com/market/" title="宁波房价网">宁波</a>
+                                        <a href="https://nc.anjuke.com/market/" title="南昌房价网">南昌</a>
+                                        <a href="https://fz.anjuke.com/market/" title="福州房价网">福州</a>
+                                        <a href="https://hf.anjuke.com/market/" title="合肥房价网">合肥</a>
+                                        <a href="https://xuzhou.anjuke.com/market/" title="徐州房价网">徐州</a>
+                                        <a href="https://zibo.anjuke.com/market/" title="淄博房价网">淄博</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>华南地区</dt>
+                <dd>
+                                        <a href="https://shenzhen.anjuke.com/market/" title="深圳房价网">深圳</a>
+                                        <a href="https://guangzhou.anjuke.com/market/" title="广州房价网">广州</a>
+                                        <a href="https://foshan.anjuke.com/market/" title="佛山房价网">佛山</a>
+                                        <a href="https://cs.anjuke.com/market/" title="长沙房价网">长沙</a>
+                                        <a href="https://sanya.anjuke.com/market/" title="三亚房价网">三亚</a>
+                                        <a href="https://huizhou.anjuke.com/market/" title="惠州房价网">惠州</a>
+                                        <a href="https://dg.anjuke.com/market/" title="东莞房价网">东莞</a>
+                                        <a href="https://haikou.anjuke.com/market/" title="海口房价网">海口</a>
+                                        <a href="https://zh.anjuke.com/market/" title="珠海房价网">珠海</a>
+                                        <a href="https://zs.anjuke.com/market/" title="中山房价网">中山</a>
+                                        <a href="https://xm.anjuke.com/market/" title="厦门房价网">厦门</a>
+                                        <a href="https://nanning.anjuke.com/market/" title="南宁房价网">南宁</a>
+                                        <a href="https://quanzhou.anjuke.com/market/" title="泉州房价网">泉州</a>
+                                        <a href="https://liuzhou.anjuke.com/market/" title="柳州房价网">柳州</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>中 西 部</dt>
+                <dd>
+                                        <a href="https://chengdu.anjuke.com/market/" title="成都房价网">成都</a>
+                                        <a href="https://chongqing.anjuke.com/market/" title="重庆房价网">重庆</a>
+                                        <a href="https://wuhan.anjuke.com/market/" title="武汉房价网">武汉</a>
+                                        <a href="https://zhengzhou.anjuke.com/market/" title="郑州房价网">郑州</a>
+                                        <a href="https://xa.anjuke.com/market/" title="西安房价网">西安</a>
+                                        <a href="https://km.anjuke.com/market/" title="昆明房价网">昆明</a>
+                                        <a href="https://gy.anjuke.com/market/" title="贵阳房价网">贵阳</a>
+                                        <a href="https://lanzhou.anjuke.com/market/" title="兰州房价网">兰州</a>
+                                        <a href="https://luoyang.anjuke.com/market/" title="洛阳房价网">洛阳</a>
+                                    </dd>
+            </dl>
+                        <div class="morecity"><a href="https://www.anjuke.com/sy-city.html">更多城市&gt;</a></div>
+        </div>
+    </div>
+        <ul class="navigation" id="navigation">
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.anjuke.com/" _soj="navigation">首 页</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.fang.anjuke.com/" _soj="navigation">新 房</a>
+                                    <ul class="xf">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/loupan/" _soj="navigation" >
+                                新盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="http://cs.news.anjuke.com/" _soj="navigation" >
+                                楼讯                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/hui/" _soj="navigation" >
+                                热门活动                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/kft/zhuanche/" _soj="navigation" >
+                                看房团                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/fangyuan/" _soj="navigation" >
+                                房源                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/commercial/" _soj="navigation" >
+                                商业地产                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://haiwai.anjuke.com" _soj="navigation" >
+                                海外地产                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/brand/list/" _soj="navigation" >
+                                品牌专区                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.anjuke.com/sale/" _soj="navigation">二手房</a>
+                                    <ul class="">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cs.anjuke.com/sale/" _soj="navigation" >
+                                房源                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.anjuke.com/community/" _soj="navigation" >
+                                小区                            </a>
+                        </li>
+                                                <li class="hr"></li>                        <li>
+                            <a href="https://cs.anjuke.com/map/sale/" _soj="navigation"target="_blank" >
+                                地图找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://www.anjuke.com/topic/" _soj="navigation" >
+                                主题找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.anjuke.com/tycoon/" _soj="navigation" >
+                                找经纪人                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.anjuke.com/tycoon/paiming/" _soj="navigation" >
+                                优秀经纪人榜                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.anjuke.com/tycoon/weiguijingjiren/" _soj="navigation" >
+                                违规经纪人                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://www.anjuke.com/mobile?from=navigation" _soj="navigation" >
+                                我要卖房                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.zu.anjuke.com/" _soj="navigation">租 房</a>
+                                    <ul class="">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cs.zu.anjuke.com/" _soj="navigation" >
+                                区域找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.zu.anjuke.com/ditie/" _soj="navigation" >
+                                地铁找房                            </a>
+                        </li>
+                                                <li class="hr"></li>                        <li>
+                            <a href="https://cs.zu.anjuke.com/ditu/" _soj="navigation"target="_blank" >
+                                地图找房                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.anjuke.com/community/" _soj="navigation" >
+                                小区                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.zu.anjuke.com/duanzu/" _soj="navigation" >
+                                民宿短租                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.sydc.anjuke.com/xzl-zu/" _soj="navigation">商铺写字楼</a>
+                                    <ul class="">
+                        <li class="nav-triangle"><span></span></li>
+                                                                        <li>
+                            <a href="https://cs.sydc.anjuke.com/sp-zu/" _soj="navigation" >
+                                商铺                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.sydc.anjuke.com/sp-zu/" _soj="navigation" >
+                                商铺出租                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.sydc.anjuke.com/sp-shou/" _soj="navigation" >
+                                商铺出售                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/sp/all/w4/" _soj="navigation" >
+                                商铺新盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.sydc.anjuke.com/xzl-zu/" _soj="navigation" >
+                                写字楼                            </a>
+                        </li>
+                                                <li class="hr"></li>                        <li>
+                            <a href="https://cs.sydc.anjuke.com/xzl-zu/" _soj="navigation" >
+                                写字楼出租                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.sydc.anjuke.com/xzl-shou/" _soj="navigation" >
+                                写字楼出售                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.fang.anjuke.com/xzl/all/w5/" _soj="navigation" >
+                                写字楼新盘                            </a>
+                        </li>
+                                                                        <li>
+                            <a href="https://cs.sydc.anjuke.com/shangban/loupan/?from=spxzl_index_float_bglp" _soj="navigation" >
+                                办公楼盘                            </a>
+                        </li>
+                                            </ul>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://haiwai.anjuke.com" _soj="navigation">海外地产</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://jiazhuang.anjuke.com/cs/gongsi/" _soj="navigation">装修</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="http://cs.news.anjuke.com/" _soj="navigation">楼 讯</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://ai.anjuke.com/?action=hydc" _soj="navigation">房产研究院</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.anjuke.com/market/" _soj="navigation">房 价</a>
+                            </li>
+                        <li class="">
+                <a class="nav-lv1" href="https://cs.anjuke.com/ask/" _soj="navigation">问 答</a>
+                            </li>
+                    </ul>
+
+        <!-- UserLogin Pc_Common_HeaderNavComponent-->
+        <div class="nav-right">
+            <div id="user_box" class="userbox">
+                <i class="icon icon-user"></i>
+                <a href="https://login.anjuke.com/login/form?history=aHR0cHM6Ly9jcy5hbmp1a2UuY29tL21hcmtldC8=" rel="nofollow">登录</a>
+                <a href="https://user.anjuke.com/register/" rel="nofollow">注册</a>
+            </div>
+
+            <a href="https://www.anjuke.com/mobile?from=navigation" rel="nofollow" class="download-app">
+                <i class="icon icon-apple"></i>
+                <i class="icon icon-android"></i>
+                下载APP
+            </a>
+        </div>
+    </div>
+</div>
+<script id="login_tpl_general" type="text/template">
+    <i class="icon icon-user"></i>
+    <a href="<%= righturl.myanjuke %>"><%= common.usernamestr && common.usernamestr.replace(/^(.{4}).*$/,'$1...') %></a>
+    <% if( common.totalUnreadCount && common.totalUnreadCount > 0 ){ %>
+        <i class="icon icon-point"><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></i>
+    <% } %>
+    <i class="triangle-down"></i>
+    <ul>
+        <% if(righturl.links.expert_home){ %>
+        <li><a href="<%= righturl.links.expert_home %>">专家主页</a></li>
+        <% } %>
+        <% if(righturl.links.ask_center){ %>
+        <li><a href="<%= righturl.links.ask_center %>">问答中心</a></li>
+        <% } %>
+        <% if(righturl.links.expert_home || righturl.links.ask_center){ %>
+        <li class="hr"></li>
+        <% } %>
+        <li><a href="<%= righturl.links.my_favorite %>">我的收藏</a></li>
+        <li><a href="<%= righturl.links.view_history %>">浏览历史</a></li>
+        <li><a href="<%= righturl.links.subscription_management %>">订阅管理</a></li>
+        <li><a href="<%= righturl.links.my_ask %>">我的问答</a></li>
+        <li><a href="<%= lefturl.pmurl||'#' %>">我的消息<em><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></em></a></li>
+        <li><a href="<%= righturl.links.my_ugc %>">我的点评</a></li>
+        <li class="hr"></li>
+        <li><a target="_blank" href="<%= righturl.links.publish_sell || '#' %>">我要发房</a></li>
+        <li><a target="_blank" href="<%= common.my_house||'#' %>">我的房源</a></li>
+        <li class="hr"></li>
+        <li><a href="<%= lefturl.logouturl||'#' %>">退出</a></li>
+    </ul>
+</script>
+<script id="login_tpl_broker" type="text/template">
+    <i class="icon icon-user"></i>
+    <a href="<%= righturl.myanjuke %>"><%= common.usernamestr && common.usernamestr.replace(/^(.{4}).*$/,'$1...') %></a>
+    <% if( common.totalUnreadCount && common.totalUnreadCount > 0 ){ %>
+        <i class="icon icon-point"><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></i>
+    <% } %>
+    <i class="triangle-down"></i>
+    <ul>
+        <li><a href="<%= lefturl.pmurl||'#' %>">我的消息<em><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></em></a></li>
+        <li class="hr"></li>
+        <li><a href="<%= righturl.myanjuke %>">中国网络经纪人</a></li>
+        <li class="hr"></li>
+        <li><a href="<%= lefturl.logouturl||'#' %>">退出</a></li>
+    </ul>
+</script>
+<script id="login_tpl_developer" type="text/template">
+    <i class="icon icon-user"></i>
+    <a href="<%= righturl.myanjuke %>"><%= common.usernamestr && common.usernamestr.replace(/^(.{4}).*$/,'$1...') %></a>
+    <% if( common.totalUnreadCount && common.totalUnreadCount > 0 ){ %>
+        <i class="icon icon-point"><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></i>
+    <% } %>
+    <i class="triangle-down"></i>
+    <ul>
+        <li><a href="<%= lefturl.pmurl||'#' %>">我的消息<em><%= common.totalUnreadCount>99?'99+':common.totalUnreadCount %></em></a></li>
+        <li class="hr"></li>
+        <% if( common.fytUrl ){ %>
+            <li><a href="'+common.fytUrl+'">云店通</a></li>
+        <% } %>
+        <% if( common.fytUrl || common.developUrl ){ %>
+            <li class="hr"></li>
+        <% } %>
+        <li><a href="<%= lefturl.logouturl %>">退出</a></li>
+    </ul>
+</script>
+    <div id="content">
+    <div class="market-top-crumbs-search">
+        <div class="commCrumb clearFloat">
+    <div class="crumb">
+    	    		    			<a href="https://cs.anjuke.com">长沙房产网</a> > 
+    		    	    		    			长沙房价    		    	    </div>
+</div>
+        
+<div id="glbSearch" class="glbSearch forList forView market">
+    <form class="glbForm" method="get" action="/community/" target="_self" id="global_search_form">
+        <input type="hidden" value="" name="currentcityid" id="currentcityid" />
+        <input type="hidden" value="1" name="rd" />
+
+        <input type="hidden" name="t" value="3" id="search_type_apf_id_7" />
+        <input type="hidden" name="type" value="8" id="search_type" />
+        <input type="hidden" name="sugg" value="0" id="search_sugg" />
+        <input type="text" name="kw"  class="kw" id="glb_search" maxlength="100" autocomplete="off" placeholder="请输入小区名或路名…" value="请输入小区名或路名…" />
+        <em class="icon home_close" data-tracker="delete-kw" id="search_close" style="display:none;"></em><!--搜索关闭按钮-->
+        <input type="submit" class="btn" value="搜索" />      
+    </form> 
+    <div class="clear"></div>
+</div>
+    </div>
+
+    <div class="area">
+    <div class="bigArea">
+        <span>区域 ：</span>
+                    <a href="https://cs.anjuke.com/market/" class="curr" title="全部房价">全部</a>
+                    <a href="https://cs.anjuke.com/market/xingshac/" class="" title="星沙房价">星沙</a>
+                    <a href="https://cs.anjuke.com/market/xingsha/" class="" title="长沙县房价">长沙县</a>
+                    <a href="https://cs.anjuke.com/market/yuelu/" class="" title="岳麓房价">岳麓</a>
+                    <a href="https://cs.anjuke.com/market/kaifu/" class="" title="开福房价">开福</a>
+                    <a href="https://cs.anjuke.com/market/liuyang/" class="" title="浏阳房价">浏阳</a>
+                    <a href="https://cs.anjuke.com/market/ningxiang/" class="" title="宁乡房价">宁乡</a>
+                    <a href="https://cs.anjuke.com/market/tianxin/" class="" title="天心房价">天心</a>
+                    <a href="https://cs.anjuke.com/market/wangchenga/" class="" title="望城房价">望城</a>
+                    <a href="https://cs.anjuke.com/market/yuhuah/" class="" title="雨花房价">雨花</a>
+                    <a href="https://cs.anjuke.com/market/furong/" class="" title="芙蓉房价">芙蓉</a>
+            </div>
+    </div>
+    <div class="priceTrend">
+    <h1 class="hTitle">长沙房价走势图</h1>
+    <div class="trend clearFloat">
+        <div class="trendL">
+            <a href="https://cs.anjuke.com/sale/" target="_blank"><div id="regionChart"></div></a>
+        </div>
+        <div class="trendR">
+            <h2 class="highLight">长沙6月二手房均价
+                                    <em class="up">10386</em> 元/m²
+                                                </h2>
+
+            <h2>长沙5月二手房均价
+                                    <em class="up">10382</em> 元/m²</h2>
+                
+            <h2>环比上月上涨 <i class="up">0.05% ↑</i>，同比去年同期上涨 <i class="up">3.61% ↑</i></h2>
+
+            <h2>查看长沙更多<a href="https://cs.anjuke.com/sale/" _soj="fangjiatop_esf" target="_blank">二手房房源</a>，更多<a href="https://cs.zu.anjuke.com" _soj="fangjiatop_zu" target="_blank">租房房源</a></h2>
+
+            <h2 class="highLight price">价格找房</h2>
+            <div>
+                                    <a href="https://cs.anjuke.com/sale/m16724/" rel="nofollow" _soj="fangjia_comm" target="_blank">60万以下</a>
+                                    <a href="https://cs.anjuke.com/sale/m16725/" rel="nofollow" _soj="fangjia_comm" target="_blank">60-70万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16726/" rel="nofollow" _soj="fangjia_comm" target="_blank">70-80万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16727/" rel="nofollow" _soj="fangjia_comm" target="_blank">80-100万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16728/" rel="nofollow" _soj="fangjia_comm" target="_blank">100-110万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16729/" rel="nofollow" _soj="fangjia_comm" target="_blank">110-130万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16730/" rel="nofollow" _soj="fangjia_comm" target="_blank">130-150万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16731/" rel="nofollow" _soj="fangjia_comm" target="_blank">150-200万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16732/" rel="nofollow" _soj="fangjia_comm" target="_blank">200-350万</a>
+                                    <a href="https://cs.anjuke.com/sale/m16733/" rel="nofollow" _soj="fangjia_comm" target="_blank">350万以上</a>
+                            </div>
+        </div>
+    </div>
+</div>
+        <div class="commTrend">
+        <h2 class="hTitle">长沙热门小区房价走势</h2>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/254453/" title="钰龙天下佳园(二期)" target="_blank" class="leftA">
+                        <em>钰龙天下佳园(二期)</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/254453/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">29369</em> 元/m²，环比上月上涨<em class="up">1.81%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/254453/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart1" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5771678325?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuyuBPHD3myNVPHNOnBYYPv7bsH91uynVmHwWPWEdPH6WPANvTHm1PjmLn1cvnHmkPWNOTEDznjcvPjNYPWbknWNOrH0vTHckrjTkTHckrjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTQPWbKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjc3nWEOnHbLnWEvnjD1PjEKP973py7f0gRFujCQnjT1rj0QP1mKnEDkPAczPhEdPzd6nj-6sHEkujNVrjP-PiYdm1--njnQPvnknADKnHEknW9zPjbznjnznjD3rjEQP9DQPjTzrjcYrHcknHTznj93P1TYTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnj7-myEOrjmVujNQuiYYm1TQsyFBnjbVrAELnjNzuHn3m19zTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UT7-PyR6uHcOPW9vnWN3rH7-">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/68c5f608e3778ed4123dee99b0370e59/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]南北通透 电梯房  3室2厅 93平 诚心出售！</p>
+                                        <p class="commPrice">280万</p>
+                                        <p class="details">3室2厅 94平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5765509932?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuyuBPHD3myNVPHNOnBYYPv7bsH91uynVmHwWPWEdPH6WPANvTHNYnWDQnj0kP1n3P1TQTEDznjcQrHDLPjDvPjbvnHndTHDYP1TkTHDYP1TkTHD_nHnKPjDYTHDvnWn1rHmzPHTQPWbKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYn1ELnjTdP1NLrjT3PWEKP973py7f0gRFujCQnjT1rj0QP1mKnED3uH9knHDQPaYkPvmvsHEznynVrjK-nzdWP1IWujbduHmLnHTKnHEknWE1Pj0knj0znWN3nHNkP9DQPjTzPjnYP1TkPWnkn1TvrjDvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKuHN3mWnYrynVm1-WuBYYrHKBsH66rHTVnyubnHcQnyc3uHmzTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UT7Brj9dnhmvPjubm1NLuWNd">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/ade656e1890ec178ee33daaa0b1ca6d4/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]钰龙天下三房精装送家具家电，长郡中学的教育，电梯高层采光好</p>
+                                        <p class="commPrice">288万</p>
+                                        <p class="details">3室2厅 86平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5769321156?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuyuBPHD3myNVPHNOnBYYPv7bsH91uynVmHwWPWEdPH6WPANvTHmznHbYn1bOnWE3nHnvTEDznjcYP1cvPWcdPjE1rjEkTHckrjTkTHckrjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTQPWbKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjc3rHmOPjn3PHbOnjTYnHmKP973py7f0gRFujCQnjT1rj0QP1mKnEDLuW7WuWnvmiYYnycvsHwbuhNVmymvuBYkuhPBmvRBuHndrAnKnHEknW9OPWbYPjTzP1mLnWNLP9DQPjTzrjbvrHE1rHcLnjTOnW9kTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPAcQmyuWnHEVmHmvnzYYP1nksyDQPjNVm19YuAuWn1EkuhwBTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UT7-P1uWuWF6mWEQnhmOrj91">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/a620cf5786ea05e95ef21eb1ac40893d/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]（好房急售）钰龙天下 小三房 学W可用  满五 无需资格</p>
+                                        <p class="commPrice">266万</p>
+                                        <p class="details">3室2厅 86平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5777502846?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuyuBPHD3myNVPHNOnBYYPv7bsH91uynVmHwWPWEdPH6WPANvTHnznWcQrHNkPHT3PHNYTEDznjnkPWbznWc3njDYnj91THDYP1TkTHDYP1TkTHD_nHnKPjDYTHDvnWn1rHmzPHTQP1TKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcOPWm1rHTLrHcdnW03P1cKP973py7f0gRFujCQnjT1rj0QP1mKnEDknAcknAcdnadWPvP-sHEYPynVmyc3uBYdnWF-uHEdnAmznWbKnHEknWbvPWnOnWTYnWE1njEvPTDQPjTzrHmvn1bQrHEdrHmQPj0zTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnymvujm1uHbVPhF6uiYYrjDOsyc3m1mVnAmkPhPWrHEdrHPWTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UT76m1N3nH--mvPBmH9kP1cL">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/0c843a37c7e681439fb482470288cef9/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]钰龙天下佳园(二期) 南北通透 满五唯一住房 精装</p>
+                                        <p class="commPrice">270万</p>
+                                        <p class="details">3室2厅 94平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/254927/" title="恒大名都" target="_blank" class="leftA">
+                        <em>恒大名都</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/254927/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">8467</em> 元/m²，环比上月上涨<em class="up">0.09%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/254927/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart2" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5768907185?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnA7WPW6bPvNVuHN1PiYYPWmYsycvPhEVnHb1n19LnjNQPj9YTHNYrHNYP1bYn1T3n10YTEDznjcYPjbzPH0On1ELPjm1THDdn1TkTHDdn1TkTHD_nHnKPjDYTHDvnWn1rHmzPjbvnHEKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQPHcLPHmOPj9krjmLrjEKP973py7f0gRFujCQnjT1rjNvnWnKnE7buhuBn1bkPzdbnhmYsHw6n1cVmWndPzYkryw-mvF6uhEzuhcKnHEkn1DdnW0dP1Dkn1cLPWT1PTDQPjT1nHNzP1NLnjTzPWDzP1nvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnhnkPjEvPj9VPvNkuBYYuW9QsyFWujnVnWcOuWbzPAmdryN1TEDYTEDKnTDYnHE_nWDdrH0_nWDvnjTKnE78IyQ_TyP6P1KbnvE1njbkPAnQmyc">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/24ccc679efa77ad425e8dba6c47c7eac/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-普瑞大道]全新未入住，中间楼栋，中间楼层，户型周正，采光佳，配套成熟</p>
+                                        <p class="commPrice">155万</p>
+                                        <p class="details">4室2厅 187平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5720401681?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnA7WPW6bPvNVuHN1PiYYPWmYsycvPhEVnHb1n19LnjNQPj9YTHmdrHE1P10vrjE1nW0OTEDQrH9OPWTkn10knHTvn19kTHD3njTkTHD3njTkTHD_nHnKPjDYTHDvnWn1rHmzPjbvnHEKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQPWTvPHNLnHDLnj0Qn1mKP973py7f0gRFujCQnjT1rjNvnWnKnEDYrAP6nHm3miYdryDYsHEQPHTVrHbYuadbuHTQPWc1rjTvuWDKnHEkn1DvnjmdPWTQP19OnHn1nTDQPjT1nHmkPWNdrj0OPj91n1bzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKuADdPvDzPW0VPWczmzYYnWb1sycLP1TVrjmdPhRhP1Ndmh7-TEDYTEDKnTDYnHE_nWDdrH0_nWDvnjTKnE78IyQ_THNLPHcvujNdrAmYPWFWPyN">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/3a6d217667461873cca4d941dd3278f8/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-普瑞大道]7字头 恒大名都 品质住宅 大阳台 南北通透 视线非常好</p>
+                                        <p class="commPrice">95.8万</p>
+                                        <p class="details">3室2厅 125平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5710038481?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnA7WPW6bPvNVuHN1PiYYPWmYsycvPhEVnHb1n19LnjNQPj9YTHmdrHE1P10vrjE1nW0OTEDQrH9zPH9LPWDLP1DdnWTdTHD3njTkTHD3njTkTHD_nHnKPjDYTHDvnWn1rHmzPjbvnHEKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQPHbzP10znW9dn1DLnHnKP973py7f0gRFujCQnjT1rjNvnWnKnEDLuAwhrHRbuaYvuHb1sHwWujnVmHEQuiYvm1T1uyc3PH9drjnKnHEkn1DdrHcLP1mYn10LnHbkPEDQPjT1nHNOnW0LPHnYP1cknjTzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPHuhmH-WmWNVnywbPiYYP1IbsyF-nyDVuynzPyDdmym1njTvTEDYTEDKnTDYnHE_nWDdrH0_nWDvnjTKnE78IyQ_THmLPWIbuHubn1TLPHw6uWT">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/19c37124d503c98d5bccc1856c3e5ad0/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-普瑞大道]新货出炉 恒大名都 九成新精装三房  可里面入住 视线无敌</p>
+                                        <p class="commPrice">91.2万</p>
+                                        <p class="details">3室2厅 110平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5763068997?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnA7WPW6bPvNVuHN1PiYYPWmYsycvPhEVnHb1n19LnjNQPj9YTHNYrHNYP1bYn1T3n10YTEDznjckn1c1n1TQPH0OP19OTHDdn1TkTHDdn1TkTHD_nHnKPjDYTHDvnWn1rHmzPjbvnHEKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYPHD3nWczP191PHmOrHcKP973py7f0gRFujCQnjT1rjNvnWnKnEDYuAEvnvFBuBY1PHTdsHE3nAmVmHTOmzY1PWR6uWRbujI6uHcKnHEknWEdnH9znWELnHcOnj93nTDQPjTzPjNQrjczn1nLnj0LnWE3TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKn1-BPhFbmHNVPyNLuiYYPhwhsyFBuW9VmvD3mH76njnvmvw6TEDYTEDKnTDYnHE_nWDdrH0_nWDvnjTKnE78IyQ_THcLnynYnW9zmWEdmWRhuWb">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/4c2118d15a239d33e73693b016488710/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-普瑞大道]周正三房，自住精装全套，主卧朝南，楼栋位置好，视野开阔无遮挡</p>
+                                        <p class="commPrice">85万</p>
+                                        <p class="details">3室2厅 100平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/255548/" title="岳麓恒大华府" target="_blank" class="leftA">
+                        <em>岳麓恒大华府</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/255548/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">20223</em> 元/m²，环比上月上涨<em class="up">1.01%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/255548/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart3" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5570462702?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/28ce4180e1a0df5c738a78dcbfe65b2c/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]市政府 恒大华府 麓山国际指标未用 满五唯一 有钥匙</p>
+                                        <p class="commPrice">156万</p>
+                                        <p class="details">3室2厅 91平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5741599127?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/03ed23777c55f3553a83b7a361af9b39/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]岳麓恒大华府 南北通透 满五 豪华装修 麓山国际本部</p>
+                                        <p class="commPrice">158万</p>
+                                        <p class="details">3室2厅 94平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5733735415?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/130a3a0b3b53effa2bc8a50bf871c305/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]恒大华府 麓山国际小学 学校可读 谷山长郡配套 随时看房</p>
+                                        <p class="commPrice">144万</p>
+                                        <p class="details">2室2厅 91平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5492340384?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/da07a52954945665be28b1a75a64bb17/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]恒大华府带大露台的小三房 诚意出售 个税不用交 直读麓山国际</p>
+                                        <p class="commPrice">156万</p>
+                                        <p class="details">3室2厅 92平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/271071/" title="八方小区A区" target="_blank" class="leftA">
+                        <em>八方小区A区</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/271071/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">33094</em> 元/m²，环比上月上涨<em class="up">0.80%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/271071/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart4" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5689668645?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuW7bujKBnHmVrAELuiYYPynOsH6-nvmVuWFBmvnOuhR-m16hTHmLPjnYPjnLPWTQnjELTEDQrHmLrj0kP1TkPHDQnWEQTHD1rjbOTHD1rjbOTHD_nHnKPjDYTHDvnWn1rHmzPHTLnjNKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQP1DQPWNQP1nLnHbkPjTKP973py7f0gRFujCQnjT1rjEYn1nKnEDzmH66uADYnidWnAwWsHwWuycVmhmLuaYOmWTdPvcLPyuhujDKnHEkn1DLnHDvPHNLPWnLnWczPTDQPjT1nH0QnHmdPj0OrHT1nWnzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPjI-uWbzuhNVnAELPaYYuAwhsyc1uANVrA7WPy76mWIBn1bzTEDYTEDKnTDYnHE_PjDdsj9kPWDKnE78IyQ_TywhuW--uymQmWIbrj-WPhN">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/bd80a8383a68403422c33f1f794bf579/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]全新装修！南北通透户型  入读长郡！ 随时看 枫水好地</p>
+                                        <p class="commPrice">418.8万</p>
+                                        <p class="details">3室2厅 138平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5629774490?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuW7bujKBnHmVrAELuiYYPynOsH6-nvmVuWFBmvnOuhR-m16hTH0vrHDvPj0QrH93Pj9vTEDQrHcvrjbQPWcQP1TzPWm1THD1rjbOTHD1rjbOTHD_nHnKPjDYTHDvnWn1rHmzPHTLnjmKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjDLnH0LP19drjmdPjckrjcKP973py7f0gRFujCQnjT1rjEYn1nKnEDzPj6WnWKWmid-P10zsHEYPjDVrjc3PaYkuhRBuWcYn1nLrjnKnHEknH0QP10Lrj0YnH01nHnzrTDQPjTQP1DLP103PWN1PWNkrHEYTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPvu6P1ELnAmVPjubmiYYujbOsycvrHcVmHIWuj0vrANzuHDOTEDYTEDKnTDYnHE_PjDdsj9kPWDKnE78IyQ_THcQmhNOuAmknjw-mhmkrAc">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/33c8c9d5a57565a1e0ffb4b258bc0d7d/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]业主外省定居诚心出售 卖的醉俏小户型 双指标未用 随时看房</p>
+                                        <p class="commPrice">400万</p>
+                                        <p class="details">3室2厅 125平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5765573744?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuW7bujKBnHmVrAELuiYYPynOsH6-nvmVuWFBmvnOuhR-m16hTHNYnWDQnj0kP1n3P1TQTEDznjcQrHEQP1bvnWnznWTvTHD1rjbOTHD1rjbOTHD_nHnKPjDYTHDvnWn1rHmzPHTLnjmKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYn1Evn1b1P1cYrHm3rH9KP973py7f0gRFujCQnjT1rjEYn1nKnE7WPHR6mH9OriYdPHI6sHEYujEVmWTOmzdhPAE3mHb3P1P6PADKnHEknWE1Pjm1rHNzn1EOnH9YnTDQPjTzPjnYPWnOPjnQnWDLnHN1TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKuyELPhc3nHNVP1RWmBYYnhRbsH--rjcVnHuWrAn3uWwhPjPbTEDYTEDKnTDYnHE_PjDdsj9kPWDKnE78IyQ_Ty76PHRBnj03PHEOmhu-Pjn">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/8b65d8f842cbcd80ce5e23511be6ef14/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]八方小区 入读名校 舒适楼层 带车位 诚心出售 随时看房</p>
+                                        <p class="commPrice">400万</p>
+                                        <p class="details">3室2厅 127平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5766051923?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVuW7bujKBnHmVrAELuiYYPynOsH6-nvmVuWFBmvnOuhR-m16hTH0dnHNvPjTvnjEQnjbkTEDznjcznHN1P1mYnWnznHbOTHDOP1TkTHDOP1TkTHD_nHnKPjDYTHDvnWn1rHmzPHTLnjmKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQrjN1rjEOPHE3njcQP10KP973py7f0gRFujCQnjT1rjEYn1nKnE7hPhNvnH9vmBYOPHcYsHw6nhnVrjcLuBYzPH-bPvnLuWnQuj0KnHEkn1D3PHn3PHDznWNLPjn1P9DQPjT1nH9dn19dnjD1PHczPjnzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnWNQujmQnymVPvndnzYYuHT3sHbdmWbVPHKhujDznH0duA7-TEDYTEDKnTDYnHE_PjDdsj9kPWDKnE78IyQ_THc1n191PHKWPHbLrHKbuyc">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/2fc9ce87a7839ebeb74f90e6a55fb594/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-市政府]市政府加高端学府环绕 让您的孩子赢在起跑线</p>
+                                        <p class="commPrice">400万</p>
+                                        <p class="details">3室2厅 127平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/293176/" title="保利麓谷林语" target="_blank" class="leftA">
+                        <em>保利麓谷林语</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/293176/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">12427</em> 元/m²，环比上月上涨<em class="up">0.48%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/293176/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart5" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5766096177?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmhu6njmQPHmVPvD1uBYYPW9YsH9Ln1nVrHwhuj-BmvEzuWcvTHEdPjEknHcQrjmknHD1TEDznjcznH0LnHTdP1nQPHbdTHD3PWTkTHD3PWTkTHD_nHnKPjDYTHDvnWn1rHmzPHTLrHTKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcznWEdPW93rjD1rHnvPWEKP973py7f0gRFujCQnjT1rjEdnWmKnEDQrjbduWEdmiYQnjubsHEdmycVmHEvuidBrj-brAcQuhczPjDKnHEknWczPjNvrHTYPjbLnHNznTDQPjTznWcYPHmOnjDOrjTQPWTkTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKmhwhPjnvPyEVrHRBraYYnvwWsycvP1cVn1N3uH6hP1NQPH91TEDYTEDKnTDYnHE_PjDdsjcQPWTzTHDKUMR_UTDYnjN3rHDdmvnzmHIbnhwB">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/fde42b325d13f6c5ae3b681535fdf5d1/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]满五唯一，正地铁口，就读明德中小学，保利麓谷林语精装两房</p>
+                                        <p class="commPrice">97万</p>
+                                        <p class="details">2室2厅 82平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5763599002?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmhu6njmQPHmVPvD1uBYYPW9YsH9Ln1nVrHwhuj-BmvEzuWcvTHEQnWcYrjNLTEDznjckPH0vP1EvnWnzrjEkTHD3PWTkTHD3PWTkTHD_nHnKPjDYTHDvnWn1rHmzPHTLrHTKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYPj0zPj9dPWmknjNLPWcKP973py7f0gRFujCQnjT1rjEdnWmKnEDvmWNkuHR-nzYkmy7hsHEzrAnVrHnzPaYLmhE3nhPBuHmkrjNKnHEknWEYP1cYrj0zrHN3n1mQP9DQPjTzPjELnWE3PWNYnj9znjE3TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPANknvFbP1TVrAmLuBYYuyNvsy7bm1mVmH7BPWnQmhmOPHF6TEDYTEDKnTDYnHE_PjDdsjcQPWTzTHDKUMR_UTD3nWcOnjm1uAmvP1nvn1Rb">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/e5a7601f61868fe0336c6aa38efba0dd/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]新 满五省稅 首付37万 保利麓谷林语 F区 高层小三居</p>
+                                        <p class="commPrice">128万</p>
+                                        <p class="details">3室2厅 100平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5777254798?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmhu6njmQPHmVPvD1uBYYPW9YsH9Ln1nVrHwhuj-BmvEzuWcvTHEzP1TdPWNvn1nzrjD1TEDznjnkPHN3PjTzP19QnHbvTHDdrjTkTHDdrjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTLrHTKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcOn1cdrjNvnj9zPH0dn1mKP973py7f0gRFujCQnjT1rjEdnWmKnEDzrjwWrj01riYYPHndsHwhPWEVrHb1mzY3nyNOuymLujKbPvnKnHEknWb1nWN3PH0drHcdnWE3nTDQPjTzrHnzPH9dPWmvrH0LP1bzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnv7-uHc1ujcVm1F-niYYPjFbsyczP10VnjcQmW03PjNvP17hTEDYTEDKnTDYnHE_PjDdsjcQPWTzTHDKUMR_UTDOuWD1nvwWujTQmH6hPWDk">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/0f2db4ba39ed69079f092fe1c196131f/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]保利麓谷CD区 送前后大花园60平 满五 出价就谈 钥匙在手</p>
+                                        <p class="commPrice">102.8万</p>
+                                        <p class="details">3室2厅 95平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5767670819?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmhu6njmQPHmVPvD1uBYYPW9YsH9Ln1nVrHwhuj-BmvEzuWcvTHEQnWcYrjNLTEDznjc1n1bOP1EzPHEvrHEdTHD3PWTkTHD3PWTkTHD_nHnKPjDYTHDvnWn1rHmzPHTLrHTKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYPj0dnWNYnjm3Pjc3rjTKP973py7f0gRFujCQnjT1rjEdnWmKnED1PhDLmW0QuadbnjcLsHwbPjcVmycvPBd-mvEzPvNvm1TkmhNKnHEknWEYP1NzPHNdP191P19zPTDQPjTzPjELPHcdPjmQn1m3rjnzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPyczPWNdrAmVnj0dmzYYn1NLsH6hmWEVmHKbm1FWPAN3ryw-TEDYTEDKnTDYnHE_PjDdsjcQPWTzTHDKUMR_UTDLrynknAu6rHFBuW6WPAmk">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/c32b2b0a5447bd54af942d4c2f2fd522/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]婚房必选 简约清爽  12年一站式教育 D铁口 保利麓谷林语</p>
+                                        <p class="commPrice">135万</p>
+                                        <p class="details">3室2厅 106平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/458780/" title="中建芙蓉嘉苑" target="_blank" class="leftA">
+                        <em>中建芙蓉嘉苑</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/458780/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">13049</em> 元/m²，环比上月上涨<em class="up">0.72%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/458780/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart6" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5776257774?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPvR-mHm3nvmVrANQmzYYnhDLsH6BPHNVuWn3PWcOPj0YnjcYTH0kPWNOP1TvnHbdrH93TEDznjnknHnkPWNOPWbLPW0YTHDzn1TkTHDzn1TkTHD_nHnKPjDYTHDvnWn1rHmzPjb3PHTKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQrHDOPHNOPjTQrHczPHmKP973py7f0gRFujCQnjT1rj9QPW0KnE76P1DQPvR6midbuHmvsHE3nyNVrjwWmBdhPjNvmWEznHbYnHEKnHEkn1DOnHbdPWTLnjcQnHN3PTDQPjT1nHbQrHNdrH01P1EzPHbzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKrj7-PH6hryEVPW9dmzYYmhndsHbkuWTVP17-rjEYnHT1PjnLTEDYTEDKnTDYnHE_PjDLsjcznHm1THDKUMR_UTDduj9znHuhuWE3nv76PWnQ">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/67536e6d8badef6b5e4c2efe7c3bf6ea/240x180c.jpg?t=1" />
+                                        <p class="commName">[天心-尚双塘]低于市场价20万嘉苑朝南精装大三房 通风采光超好 要抓住机遇</p>
+                                        <p class="commPrice">150万</p>
+                                        <p class="details">3室2厅 115平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5778042489?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPvR-mHm3nvmVrANQmzYYnhDLsH6BPHNVuWn3PWcOPj0YnjcYTH01nHnzn1DLP10dPWNkTEDznjnQPjbdrH03rHTzPHcOTHDzn1TkTHDzn1TkTHD_nHnKPjDYTHDvnWn1rHmzPjb3PHTKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQrHTkrjn1nWD3PW9zrj9KP973py7f0gRFujCQnjT1rj9QPW0KnE7bmyFWrHcQPBdbuyP-sHELPWcVrjDLuBY3nAm3PhmYPHNOrAmKnHEkn1DOnjT3n1EvrjmvPj91n9DQPjT1nHbknj91n1m3njTQPHnvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKrHDznhnQPHDVPjcdPBYYP1nQsy7Bn1EVuW9vm1F-uhn1n1m3TEDYTEDKnTDYnHE_PjDLsjcznHm1THDKUMR_UT7-nHwhPvw6uAFBmHNzPvnk">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/f4e7e0fa3c0197f9d25749641a17a98a/240x180c.jpg?t=1" />
+                                        <p class="commName">[天心-尚双塘]一万二卖嘉苑大三房，楼层高视野好，你不心动，随时可看房</p>
+                                        <p class="commPrice">152万</p>
+                                        <p class="details">3室2厅 126平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5762821497?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPvR-mHm3nvmVrANQmzYYnhDLsH6BPHNVuWn3PWcOPj0YnjcYTHmYn1TLPj0znj03PWTOTEDznjcknWEvPjNYrHNQrHnOTHDYPHTkTHDYPHTkTHD_nHnKPjDYTHDvnWn1rHmzPjb3PHTKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYPjczP1c1njDQnWbLnW9KP973py7f0gRFujCQnjT1rj9QPW0KnED1P1K-P1DLuidBrAPWsHEOmyNVmHnLuBYOmWn1ryNznHDduWTKnHEknWEYnWcLnWEdPWnzn1TLn9DQPjTzPjEznW0zn1mYnjEYnW9OTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnWE3uj7BnyNVnAEkuaYYnjRWsHbkPWmVPjcvPhPbPWDOm1-6TEDYTEDKnTDYnHE_PjDLsjcznHm1THDKUMR_UTD3PyE1njbdPj9duhc3PvPB">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/d723916c0db803909218bd0abfd4a519/240x180c.jpg?t=1" />
+                                        <p class="commName">[天心-尚双塘]1号线地铁口  毛坯三房  中建芙蓉嘉苑</p>
+                                        <p class="commPrice">110万</p>
+                                        <p class="details">3室2厅 88平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5761471881?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPvR-mHm3nvmVrANQmzYYnhDLsH6BPHNVuWn3PWcOPj0YnjcYTH0kPWNOP1TvnHbdrH93TEDznjDOnHEznWbYrjcQrjbOTHDkn1TkTHDkn1TkTHD_nHnKPjDYTHDvnWn1rHmzPjb3PHTKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYPWbYrjEQnjcYnWmvnWEKP973py7f0gRFujCQnjT1rj9QPW0KnEDzmHcYujw-PBYdnH01sHEQn1mVrj7BriY1uWNvPH7hm10znvEKnHEknWEvrHE3PjcdP1mQPH9Ln9DQPjTzPjmOPj9YnHmQnHEvrj9QTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKm1Ndrj9vnAcVnWRbPzYYPvnvsy76PHnVuj9QPyPWmyn1PhcLTEDYTEDKnTDYnHE_PjDLsjcznHm1THDKUMR_UTDkrj0OujcLrHDznvELmHE1">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/8e631a14d4b8b9d67d17bb1e4ff2c2df/240x180c.jpg?t=1" />
+                                        <p class="commName">[天心-尚双塘]中建芙蓉嘉苑精装一房 近地铁口 使用面积超大 业主诚心出售！</p>
+                                        <p class="commPrice">32.8万</p>
+                                        <p class="details">1室1厅 30平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/805620/" title="皇庭尚品" target="_blank" class="leftA">
+                        <em>皇庭尚品</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/805620/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">7437</em> 元/m²，环比上月下跌<em class="down">0.40%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/805620/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart7" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5700064949?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/b5937097113dde0c1e1130006fc8585e/240x180c.jpg?t=1" />
+                                        <p class="commName">[宁乡-南城区]首付12万购大三房，拎包既可入住</p>
+                                        <p class="commPrice">86.8万</p>
+                                        <p class="details">3室1厅 139平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5639284744?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/e3e6cb1d5cddf5a6da4dc2f351f3d6e2/240x180c.jpg?t=1" />
+                                        <p class="commName">[宁乡-南城区]岳宁大道 吾悦广场 滨江中小学旁 电梯好楼层 自住精装三房</p>
+                                        <p class="commPrice">87.8万</p>
+                                        <p class="details">3室2厅 139平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5735011775?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/ca2f17316f0bf62e5e201142f7f40a1a/240x180c.jpg?t=1" />
+                                        <p class="commName">[宁乡-南城区]南站大三房杂物间 电梯精装 黄金楼层 一口价 6288平</p>
+                                        <p class="commPrice">86.8万</p>
+                                        <p class="details">3室2厅 139平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5744531872?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/09ba459ff75654ee5e7b0940fa80c62a/240x180c.jpg?t=1" />
+                                        <p class="commName">[宁乡-南城区]汽车南站 吾悦广场 香山锦苑 龙江小学 滨江中学 大三房</p>
+                                        <p class="commPrice">85.8万</p>
+                                        <p class="details">3室2厅 139平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/811503/" title="钰龙天下" target="_blank" class="leftA">
+                        <em>钰龙天下</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/811503/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">30023</em> 元/m²，环比上月上涨<em class="up">1.31%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/811503/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart8" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5754639814?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnjb1n19YPjcVnvD3PBYYuyNOsH9znynVujb1nWNOn1N3rymOTHnkrHEkPWcLn1nzn1N3TEDznjD1P1NdPH9QP191njEzTHc3PWTkTHc3PWTkTHD_nHnKPjDYTHDvnWn1rHmzPHT1n10KnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjc3rHmzrH9YPWbLPWDknWEKP973py7f0gRFujCQnjT1rj0QP1TKnEDYuWRBPHm1PBYQnWmvsHE1mhNVmWTdnaY1P1FBPvPWmvEQmvEKnHEknW9OPWcOrjmYPHbzPH93rTDQPjTzrjbvnWb3PHnvrj01rH9YTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnA7hPWK-ujEVP1cdnaYYuADdsyFWnjDVnH-WuWw-rjDYPW6WTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UT7bmWKbuWRWrARBm1EOrAcO">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/53147efcadc0a8f28a74ed393eef86ba/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]电梯房 南北通透 满五唯一住房 精装修 看房方便</p>
+                                        <p class="commPrice">350万</p>
+                                        <p class="details">3室2厅 124平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5754547834?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnjb1n19YPjcVnvD3PBYYuyNOsH9znynVujb1nWNOn1N3rymOTHmQP1mOrHmdrj9OPHNQTEDznjD1PWbvnWcYPH9zPWmvTHDYP1TkTHDYP1TkTHD_nHnKPjDYTHDvnWn1rHmzPHT1n10Kn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYn10kPWb1PHbzrHcYnH9KP973py7f0gRFujCQnjT1rj0QP1TKnE7-uj76ryRbmBdhPANOsHE3nW9VmH9kriYQuADQmH7WryDznANKnHEknWE1P1TvrH9OPWDvP1EzPTDQPjTzPjnLnjmOrjT1rjbzP1nvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPjIBPHubPvEVnjIBnBYYnHRWsH9YPHEVrH-bnjRBnjP6rAPhTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UTD3mWTvm19vnHnOnAN1uH-6">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/39ed8a97002de49709cb569894d179da/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]楼下即是长郡双语 钰龙天下 希缺小三居 此房可配套入读</p>
+                                        <p class="commPrice">298万</p>
+                                        <p class="details">3室2厅 93平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5754643568?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnjb1n19YPjcVnvD3PBYYuyNOsH9znynVujb1nWNOn1N3rymOTHNYnWDQnj0kP1n3P1TQTEDznjD1P1N3nW9dPjTdnHbkTHDLnWTkTHDLnWTkTHD_nHnKPjDYTHDvnWn1rHmzPHT1n10Knk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcOn1N1rj0zn1D1PWnkP1cKP973py7f0gRFujCQnjT1rj0QP1TKnE76ujNvP1IbmiYOm1bvsHEvPWTVrHNvPzd-n1R-PhFBrHTLPHcKnHEknWb1PHn3P1n3PWNdnWnznTDQPjTzrHndn19Ln1DOPjELPHNzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPyE1mvPBPhDVn1F-niYYPWDLsHbzuAnVPvwhrAcdmymzmWFbTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UTD3uW0OPjb3PvN3Phc1uHEz">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/63e566fb946554de0aa8ceff01945ed2/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]钰龙天下一期 学为未用 产证在手 业主诚心卖 随时看房</p>
+                                        <p class="commPrice">350万</p>
+                                        <p class="details">3室2厅 124平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5709670028?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnjb1n19YPjcVnvD3PBYYuyNOsH9znynVujb1nWNOn1N3rymOTHmvPH9dP1c1rHTLnj9kTEDQrH9zn1bLn1nQrjNvn1b1THc3PWTkTHc3PWTkTHD_nHnKPjDYTHDvnWn1rHmzPHT1n10KPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcLrHbOrH0OPW0QPj0knjbKP973py7f0gRFujCQnjT1rj0QP1TKnE76uH7WuHFbPiYdrjF-sHEdnj9VmWckPBYdnADdrAcvrANLuADKnHEknW0OrHbOrjDYn1nkP10LP9DQPjTzP1bOrHb3njDLPj9zP1N1TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKn1IBm1NYn1EVnW6BnzYYuj0ksyDvmhmVPAN3ryRhrHw6mhDYTEDYTEDKnTDYnHE_PjDdsjcQPHE3THDKUMR_UTDzuHbOuHNduhw-mhNYm1PB">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/75216f3ca962179a36097633e71e5ad2/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]市政府 长郡双语中学 八方小区 旭辉藏郡 恒大华府 万象府台</p>
+                                        <p class="commPrice">325万</p>
+                                        <p class="details">3室2厅 118平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/914924/" title="山水湾" target="_blank" class="leftA">
+                        <em>山水湾</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/914924/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">9404</em> 元/m²，环比上月下跌<em class="down">0.12%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/914924/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart9" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5772500206?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnHP6mhcOuAcVrjR-mBYYnHDLsH91nHEVujuBrjnYPAmdPjubTHE3nWNLPWnkPWT1njcOTEDznjcLn1ndrHNznHmQP1bYTHD1rjbOTHD1rjbOTHD_nHnKPjDYTHDvnWn1rHmzPHTYnWDKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcdnj03rHn1PjTvPj0YnWEKP973py7f0gRFujCQnjTdPHcvPWcKnED3rj7BmWEQuaYzrjIBsHwBn1mVrHN3mBdWPAc1ujK-PW7bn1bKnHEknWNkP19On1mQP1EvP1nOnkDQPjTzPHTLrjb1PHckrHb3PjTkTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPyPbuH9YPhDVmHIBraYYnjuBsyFBn10VrjbOujDkPvDOmWuWTEDYTEDKnTDYnHE_rHcvnzkQrjDdnkDQTyOdUAkKPvnOmhP6PjPWmHN3nvP-mk">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/5f7d0069edd0a1e8eab4a35c96c108bb/240x180c.jpg?t=1" />
+                                        <p class="commName">[长沙县-万家丽北路]捡漏~首付20来万花园式洋房小区 豪装三房 出门就是百熙实验</p>
+                                        <p class="commPrice">86万</p>
+                                        <p class="details">3室2厅 90平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5774536846?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnHP6mhcOuAcVrjR-mBYYnHDLsH91nHEVujuBrjnYPAmdPjubTHEdrjEYnWcvP1bkPW0vTEDznjc3P19OnWcvnHT1rjDvTHD1rjbOTHD1rjbOTHD_nHnKPjDYTHDvnWn1rHmzPHTYnWDKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQPHEvPHmkP1TznH0LnW9KP973py7f0gRFujCQnjTdPHcvPWcKnEDLrAmduH9vPBd-mH9vsHE3PWNVmynknBY3rHKWuHEkmvNkPHNKnHEkn1DdPjmdPWc1n10OPHN3P9DQPjT1nHNYPWNvnHNYnjbOP1DzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPW9kryNLnj0VPjD3PaYYPhnvsHbOn1cVnHNkmhRbm1EdmHbOTEDYTEDKnTDYnHE_rHcvnzkQrjDdnkDQTyOdUAkKrAnznvE3P1c3njEYPHTzn9">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/98bf921814979f97d82725e703eb13b3/240x180c.jpg?t=1" />
+                                        <p class="commName">[长沙县-万家丽北路]山水湾精装3房 带30万装修家电 只卖成本价 恭迎您前来品鉴</p>
+                                        <p class="commPrice">86万</p>
+                                        <p class="details">3室2厅 90平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5775321903?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnHP6mhcOuAcVrjR-mBYYnHDLsH91nHEVujuBrjnYPAmdPjubTHNLPW03nH9OPHnOrjNYTEDznjcOnH0znj0kPWTdrjn3THD1rjbOTHD1rjbOTHD_nHnKPjDYTHDvnWn1rHmzPHTYnWDKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcLrHEkPH9OPWmOnjE3n1cKP973py7f0gRFujCQnjTdPHcvPWcKnE7hujnQuyckuBYYPWEQsHEYPWnVmhDkmBYQPHcLmyn1ujbYm1cKnHEknW0OPjTdrHDdPHmYrjNQn9DQPjTzP1bYnjNOnjcdPWckrHb1TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnWDQmWb1njnVujRBPaYYP1bvsH9OnhEVmHN3uH6-uyEvrHIBTEDYTEDKnTDYnHE_rHcvnzkQrjDdnkDQTyOdUAkKmhcvPvcvPhFWPA76Phu6mE">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/88be5cdb41cbed3216bda7d30c9c46a7/240x180c.jpg?t=1" />
+                                        <p class="commName">[长沙县-万家丽北路]房东降价急售~单价8000多买洋房小区精装大三房 户型超周正</p>
+                                        <p class="commPrice">99.8万</p>
+                                        <p class="details">3室2厅 116平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5768265390?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnHP6mhcOuAcVrjR-mBYYnHDLsH91nHEVujuBrjnYPAmdPjubTHcYnj03PjbkPjDOrH0dTEDznjc1rjTQPjnQnWnLPWEdTHDvP1TkTHDvP1TkTHD_nHnKPjDYTHDvnWn1rHmzPHTYnWDKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjDYP10QPWmvrHmzPj0zrHmKP973py7f0gRFujCQnjTdPHcvPWcKnEDznHcYn1R6uBYOnW76sHw6nAmVrjN3PBY3PycLmvmznA7BnHbKnHEknHELP1DvPWbdnWTOPH0YPTDQPjTQPj0LnHmvrHDYn1NQnHTYTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnyR-PHbLP1bVnyDvmzYYP1RWsHbYnjDVnj6hmyNvnAPhmhEOTEDYTEDKnTDYnHE_rHcvnzkQrjDdnkDQTyOdUAkKnWT1uymLuWbzuym3rAR6u9">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/53030fe136479501017e4c606e2893d3/240x180c.jpg?t=1" />
+                                        <p class="commName">[长沙县-万家丽北路]地铁口，南北通透电梯两房只卖68.8万单价七字头！</p>
+                                        <p class="commPrice">73.8万</p>
+                                        <p class="details">2室2厅 89平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/1039100/" title="八方小区D区" target="_blank" class="leftA">
+                        <em>八方小区D区</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/1039100/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">32831</em> 元/m²，环比上月下跌<em class="down">0.11%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/1039100/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart10" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5754061510?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmv76myPWuHNVmyDQuaYYmWK6syDknyEVPhnYmWNkuj0OnjE1TH0dnHNvPjTvnjEQnjbkTEDznjD1PjcvPjNOrHbQnjNdTHnknjTkTHnknjTkTHD_nHnKPjDYTHDvnWn1rHmzPjbvrHbKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQrjEOnj03Pj9dnW03P1nKP973py7f0gRFujCQnjTLnHD3rHTKnED3rj7hnj0LPid-rHnQsHEdnHEVrHuhPiYOujm1PWmzPyRhPW0KnHEkn1D3PjbkrjT1n1TLP1cYrTDQPjT1nH9YrHTLrHEkP1b3PjmvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKrADLrjRBnWnVm1TOPBYYnWnksy7bmHmVnvF-nHmLPhckmHNvTEDYTEDKnTDYnHE_PjDdsjDdP1mLTHDKUMR_UTDzrjw6PjKWPhmQrH0kuHPW">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/328c0e775559d36d7f66de995296fe16/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]优质房源！ 仅此一套！错过了就没有了，还在犹豫吗</p>
+                                        <p class="commPrice">416万</p>
+                                        <p class="details">3室2厅 138平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5754633047?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmv76myPWuHNVmyDQuaYYmWK6syDknyEVPhnYmWNkuj0OnjE1THnkrHEkPWcLn1nzn1N3TEDznjD1P1NkPHnzPWDznHTzTHnknjTkTHnknjTkTHD_nHnKPjDYTHDvnWn1rHmzPjbvrHbKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcdPWTOnW91njb3PHTQnHcKP973py7f0gRFujCQnjTLnHD3rHTKnEDOuW0LPhF6niYdPhDdsHw6PjnVmyRbriYOmWNvuA7WuWR-m1mKnHEknWNvnjbzrjEdnWEdnWndnkDQPjTzPHmkrHc3n1NdrH91n1mkTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPHEYrANvPWEVP1TdnaYYmW91sH9dm1NVmhcdP1nvPWnvnhP-TEDYTEDKnTDYnHE_PjDdsjDdP1mLTHDKUMR_UT7BmyNvmycknhDkPW0OnHub">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/c21cc742c1245dd8c4b9e371493cbea4/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]大露台！大露台！难有的房子 采光好 边上就是市政府</p>
+                                        <p class="commPrice">416万</p>
+                                        <p class="details">3室2厅 138平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5754246363?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmv76myPWuHNVmyDQuaYYmWK6syDknyEVPhnYmWNkuj0OnjE1THNOPHnvrjnvPH0vnjDLTEDznjD1PHckrjTzrj9zPH0YTHcdPHTkTHcdPHTkTHD_nHnKPjDYTHDvnWn1rHmzPjbvrHbKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjDLnHbkPH0dn193rj0vrjTKP973py7f0gRFujCQnjTLnHD3rHTKnE7bmWbQnvPWPzd6m1DYsHwhmhmVrHm3PBYvnvFbm1nYnhRhrjcKnHEknH0QrHTdP1mOPjTLPWbzrTDQPjTQP1DOnjNLPHbLPWTLrHnvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKn1Dzm1DLuyEVuhPBnaYYrjnksHbzujbVPAcLmWEduHwbuyRhTEDYTEDKnTDYnHE_PjDdsjDdP1mLTHDKUMR_UTDzmWnvmW-Wn1c1PHP-n1bL">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/328c0e775559d36d7f66de995296fe16/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]（新出）八方小区 带 长沙市实验小学 长郡双语 随时看房</p>
+                                        <p class="commPrice">416万</p>
+                                        <p class="details">3室2厅 138平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5765844141?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVmv76myPWuHNVmyDQuaYYmWK6syDknyEVPhnYmWNkuj0OnjE1THNYnWDQnj0kP1n3P1TQTEDznjcznjNQP1EQnjE3rjnYTHD3njTkTHD3njTkTHD_nHnKPjDYTHDvnWn1rHmzPjbvrHbKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjcYn1EdrjTQnjmOrjD1P10KP973py7f0gRFujCQnjTLnHD3rHTKnE7-uymYmhN1nadhrj6BsHE3nvcVryEYuBdhnjwWuj9knjDOrjnKnHEknWE1PjN3njcYrHN3n1mQP9DQPjTzPjnYPH9knHmOrjbdrHnvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPWK6myubnhmVmH7bnaYYuyu-sH-WnHNVnjbOPvRhryndPANYTEDYTEDKnTDYnHE_PjDdsjDdP1mLTHDKUMR_UTDLmHcdnvmdnjN3rjRbmynO">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/8a32cd42ec6886cfc97db3165de67dad/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-观沙岭]市政府 八方小区 长郡双语 大三房 楼层好采光足业主诚心出售</p>
+                                        <p class="commPrice">416万</p>
+                                        <p class="details">3室2厅 138平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/1376427/" title="中粮北纬28度" target="_blank" class="leftA">
+                        <em>中粮北纬28度</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/1376427/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">21865</em> 元/m²，环比上月上涨<em class="up">2.21%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/1376427/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart11" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5620048397?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVrHKhmWNkuWEVrH6-nBYYnWRWsy7bPjTVP1NkrA7WmvnQm10kTH0vPWTLnjc1nW9QnHmYTEDQrHcknj9YnH91P1DOrHEYTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTzPHNKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQnHbzPHNdrHbQrHEQnHcKP973py7f0gRFujCQnjnYnWN1Pj9KnEDYm10LPAczuiYLuHb3sHEYrHmVrHNzuaYLuWc1PWEOuWTdPhDKnHEkn1DQrHcdPH9knjNzPj9knTDQPjT1nHDOnWNdP1T3nWNknHDzTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKmyP6uhR6rj9Vn19QuaYYn1Ihsyc3PhDVuhnQnAw-P1TQm16BTEDYTEDKnTDYnHE_nWDdrH0_nWDdrH9KnE78IyQ_Ty7WnHIbPhNLnWNznjFbryD">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/249fc9ce95c7abb659b21855ac67cf0e/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-金星北]中粮户型最好的边户，挑高大客厅，坐北朝南，得房率高，临水库</p>
+                                        <p class="commPrice">468万</p>
+                                        <p class="details">5室3厅 317平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5740901904?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVrHKhmWNkuWEVrH6-nBYYnWRWsy7bPjTVP1NkrA7WmvnQm10kTHmznHmzPHcvPHTOrjE1TEDznjT1PW0OPjDLn1EdnjnzTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTzPHNKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQP1mznWTYnjELPHc1rjEKP973py7f0gRFujCQnjnYnWN1Pj9KnE7hPjEQPhP6niYkPHDQsHEYn19VrH-hmBYOmWu6ujnQnAD1mHbKnHEkn1DLPWcznj0knWNdnWTvPTDQPjT1nH0vnWckPWcLnjNkPjbvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKrADduADknAmVP1NvuiYYn1KWsHbLuWmVmvndnynQujNzuAP6TEDYTEDKnTDYnHE_nWDdrH0_nWDdrH9KnE78IyQ_THbYmHD3myuBPyc1P10vuHT">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/bd69eda418cc8682b7d9c17a74006344/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-金星北]中粮A1区大花园独栋，花园 300平，客厅大气周正，离湖近</p>
+                                        <p class="commPrice">650万</p>
+                                        <p class="details">4室2厅 300平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5758002494?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVrHKhmWNkuWEVrH6-nBYYnWRWsy7bPjTVP1NkrA7WmvnQm10kTH0LnjDznHcYPWE1PWcYTEDznjDvPjNYnWDQPWEQn1NQTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTzPHNKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQPjbYPW93PHc3nWmQnHcKP973py7f0gRFujCQnjnYnWN1Pj9KnEDLm16-PAmQuBd-rHuhsHwBP1DVmH-WPiYdPhEYryN3rymvPjDKnHEkn1DYrHEvrjbOrHmzPW0dnkDQPjT1nHEOPjm3rHDOrHnkrj9kTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKuAELPjR6PhcVP101uaYYPW-bsyDvn1EVnj0LnjRhmh7huyP-TEDYTEDKnTDYnHE_nWDdrH0_nWDdrH9KnE78IyQ_TH-BP1DkmWI-PWFbrjP6mWE">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/39e578d89c1964d2feb2780fe3eac618/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-金星北]沿湖中户 您确定不来看看 地下两层可改建 空间新鲜 视野好</p>
+                                        <p class="commPrice">408万</p>
+                                        <p class="details">4室2厅 296平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5716647941?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVrHKhmWNkuWEVrH6-nBYYnWRWsy7bPjTVP1NkrA7WmvnQm10kTHEOnWNQPW9LrjT3njckTEDQrH9LPH9OrHTvn1bznjmvTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTzPHNKPT7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnznHE3njmkPW0Orjc1n1mKP973py7f0gRFujCQnjnYnWN1Pj9KnEDQmHu-mym1nidbujKhsHEdrHmVmyN1uadhrHK6rjc1nWD3mynKnHEkn1cQPj9kPWDOn19kP1nvnTDQPjT1nWDYrjTvnHczPHT3nW93TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKuWTYPv7Wn1mVmvR6uiYYm1NQsH9LnHcVuywWnHNQrymznvm1TEDYTEDKnTDYnHE_nWDdrH0_nWDdrH9KnE78IyQ_TyRbuhuBmhEYuA7WuWN3rHE">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/c3f0511e343591ebc870025df16d8dea/240x180c.jpg?t=1" />
+                                        <p class="commName">[望城-金星北]中粮豪装独栋，房东诚售，风水好，花园400平，拎包入住，省心</p>
+                                        <p class="commPrice">900万</p>
+                                        <p class="details">5室2厅 407平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/1378069/" title="阳光城溪山悦" target="_blank" class="leftA">
+                        <em>阳光城溪山悦</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/1378069/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">10992</em> 元/m²，环比上月上涨<em class="up">0.37%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/1378069/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart12" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5752273910?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPWT3m19LnAcVnyRbPBYYPjNvsy76n10VPvP6uHRhnWnduymkTH0OrHcvn1cknjbknHnkTEDznjDznjN1nHm1rHT3njbvTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTdn1DKnE7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjnQPW0OrHmYPWTOn10znHmKP973py7f0gRFujCQnjnYnWbYrjcKnEDOmHFWuH0zradbrAEvsHELPW9VmyPBPad6mWNdnWnLnWwWuH9KnHEkn1DvP1bOPWmznjnznj0vrTDQPjT1nHmLrHbvPHDdPjm1nHm3TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPHc1njDLnWNVrjwWPBYYryNOsy7hnWcVmhckrH0knhckmH91TEDYTEDKnTDYnHE_PjDdsj9krjEKnE78IyQ_TH7Wnhw-Pj6bPyRhnhu-mWN">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/ea95d273ea72e58442274f4dbc8f96f5/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]梅溪湖 刚需 师大双语小学 长郡中学 内湖公园 地铁口</p>
+                                        <p class="commPrice">140万</p>
+                                        <p class="details">3室2厅 129平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5623368701?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPWT3m19LnAcVnyRbPBYYPjNvsy76n10VPvP6uHRhnWnduymkTH0QP1E1PHNvrH9vrj9vTEDQrHczPHcOPHEdPWEQrHbLTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTdn1DKn97AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjc3nH9LrHb1P1NznW9On1TKP973py7f0gRFujCQnjnYnWbYrjcKnED1ujEvnHTdPBY1uHKhsHwhnADVmWwhuiY1PjmvnjmYmWTdPvcKnHEknW9Qrj0OrHNkPHcdPWEYrTDQPjTzrjD3P1bOPjTYPHb1nHN1TEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKPHP6n1bOnyNVnHm1naYYryE3sH6bnWDVPjwbm166PAcYPjTYTEDYTEDKnTDYnHE_PjDdsj9krjEKnE78IyQ_THcQnj93nvnQnymzmW0OrHm">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/5604200c5f9c7268a4f6e9a42a6809ed/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]直读师大附中外国语丨一线湖景丨世界500强品质大盘丨地铁口</p>
+                                        <p class="commPrice">124.3万</p>
+                                        <p class="details">4室2厅 128平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5637250892?spread=market&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVPWT3m19LnAcVnyRbPBYYPjNvsy76n10VPvP6uHRhnWnduymkTH0vn1TknjE3nWnQPjnvTEDQrHnQPW01rj93nHnLnWnQTHDOnjTkTHDOnjTkTHD_nHnKPjDYTHDvnWn1rHmzPHTdn1DKnk7AEzdEEzdKib_VOCB4Os8Llp2wlmAHsXilWrpFBSpcfSprJrBPbTDQTHDKTHTKTHDYnjc3njDdnHndn1cLPWEQPWDKP973py7f0gRFujCQnjnYnWbYrjcKnE76njw6ujPBPzd-uWwhsHELuhmVmhmkmiYOP1n1myEdPAmQPH0KnHEknW9knHNQn10Qn1DQPHD1P9DQPjTzrjTQPHD1PHbQPj9YPjDvTEDKTEDKsEDKTE7jrHnQPj0QradKn1EksH-7rHnVrj7awBYQEHKKnNN1PN7Kn19KnWc1sWDkPa31PB3QP1cKnTDkTEDQsjD1TgVqTHDknjndTHDknjDLPHDKnjc3mvD3uWmVuHmYuBYYPA7bsyczmhEVPhubuAcLPhnkujwBTEDYTEDKnTDYnHE_PjDdsj9krjEKnE78IyQ_TyNdmHcduANLP1TkmhD1mH0">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/8ab01734f2bf190d67cc0cf37f3c6935/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]梅溪湖步步高一手新房  地铁口 师大名校旁</p>
+                                        <p class="commPrice">125万</p>
+                                        <p class="details">4室2厅 126平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5728029871?spread=market_p&click_url=https://lego-click.anjuke.com/jump?target=pZwY0ZnlszqGshY8mvqVTyEVnWNQnyPhnymVuAP6mzYYmyw6syD1nycVmWFWrH7-P17BuHwBTHDknjTzP1mdrEDKnHbOPj9krHm1njTLnH9QnEDkTHDknTDQsjD1THEQPTDQPWc1n1bvnWNkPHNdTHDKwbnVNDnVENGssXpcfSieVShBbXhKbzLb8C1hBmfhBs4hWJWCWuTVUy73THDKnEDKnTDKnHEkn1DdPjDOrjm1PHczrHD3PTDvTg6GmyqQIN-brWDkn1EzrHE3n9DQTHn1mHbvnjTvsHbzuWnVPj-BnidBnyNvsHKWmvw-nyNzmhNvPTDQPjT1nHNYnHbOnjNYPWNdPj93THDYnjnQPHEQrH9OP1bQPH9knH0KTEDKTEDVTEDKTNnOn1DYP1D3sND1PjTVrNNOnzY3nNFAsH7KnDDQwHndEND1rTDznWn8nHTYsWnvsWDLn9DkTHTKTHD_nHnKXLYKnHTkP1TKnHTkn1T1Pk7hrH0drH0YriYkn17WsHw6njnVrAu-riYkPH03myN1nHKWmyNKTHEKTED1THEQPakYnHN_rjT3PTDQTyOdUAkKujTLPADLPjnLPAF-uAmLuT">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/b4101f2304f85da7966a28b9bddd1df2/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-麓谷]梅溪湖叠加别墅边户，送大露台送地下室送一百平花园！读师大雅礼</p>
+                                        <p class="commPrice">240万</p>
+                                        <p class="details">4室2厅 159平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                    <div class="comm">
+                <h3 class="clearFloat">
+                    <i></i>
+                    <a href="https://cs.anjuke.com/community/props/sale/584644/" title="合能洋湖公馆" target="_blank" class="leftA">
+                        <em>合能洋湖公馆</em>
+                    </a>
+                    <a class="more" href="https://cs.anjuke.com/community/props/sale/584644/" _soj="fangjia_esf" target="_blank">更多房源 ></a>
+                </h3>
+                <div class="commContainer clearFloat">
+                    <div class="containerL">
+                                                <p>6月二手房均价<em class="up">22782</em> 元/m²，环比上月上涨<em class="up">2.67%</em></p>
+                        <a href="https://cs.anjuke.com/community/props/sale/584644/" target="_blank" class="containerL-charts-a">
+                            <div id="commChart13" class="charts"></div>
+                        </a>
+                    </div>
+                    <div class="containerR clearFloat">
+                        <ul class="commUl">
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5641164436?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/1dd3e5cd2f2f5d989135431384f75845/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-洋湖湿地公园]合能洋湖公馆 双名校 双地铁口  业主诚售 赠送地下室和花园</p>
+                                        <p class="commPrice">330万</p>
+                                        <p class="details">4室2厅 145平方米</p>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a target="_blank" rel="nofollow" href="https://cs.anjuke.com/prop/view/A5643865204?spread=market_p">
+                                                                                    <span class="esf-axf">安选</span>
+                                                                                <img src="https://pic1.ajkimg.com/display/hj/735caea9d9d54ed62a79c8c340cbd540/240x180c.jpg?t=1" />
+                                        <p class="commName">[岳麓-洋湖湿地公园]业主诚售！合能洋湖公馆！双名校！地铁口</p>
+                                        <p class="commPrice">330万</p>
+                                        <p class="details">4室2厅 145平方米</p>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                
+        <div class="moreComm">
+            <a href="https://cs.anjuke.com/community/" _soj="fangjia_more" target="_blank">查看更多小区</a>
+        </div>
+    </div>
+
+    <div class="seo-tips">
+                安居客长沙房价网，提供长沙长沙2021年房价趋势、走势图，长沙二手房均价价格信息， 及时查询长沙房价走势、了解长沙房价上涨还是下跌，预测长沙房价暴跌暴涨>，长沙房价多少钱一平米？长沙小区房价情况。        手机版：<a
+            target="_blank" href="https://m.anjuke.com/cs/trendency/">长沙房价网</a>    </div>
+
+    
+<div id="seo-box">
+    <ul class="parent-1 "><li class="tab-1 has-subitem" ><a class="but-border first-border  cur" href="javascript:void(0)">区域二手房</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">城市二手房</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">房价直达</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">城市房价排行榜</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">房价导航</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">全国房价</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">热门房价</a></li><li class="tab-1 has-subitem" ><a class="but-border" href="javascript:void(0)">房价涨跌榜</a></li><li class="border"><ul class="parent-2 btn-show "><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/xingshac/"target="_blank">星沙二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/xingsha/"target="_blank">长沙县二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/yuelu/"target="_blank">岳麓二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/kaifu/"target="_blank">开福二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/liuyang/"target="_blank">浏阳二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/ningxiang/"target="_blank">宁乡二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/tianxin/"target="_blank">天心二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/wangchenga/"target="_blank">望城二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/yuhuah/"target="_blank">雨花二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/furong/"target="_blank">芙蓉二手房</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://beijing.anjuke.com/sale/"target="_blank">北京二手房</a></li><li class="tab-2" ><a class="" href="https://shanghai.anjuke.com/sale/"target="_blank">上海二手房</a></li><li class="tab-2" ><a class="" href="https://hangzhou.anjuke.com/sale/"target="_blank">杭州二手房</a></li><li class="tab-2" ><a class="" href="https://guangzhou.anjuke.com/sale/"target="_blank">广州二手房</a></li><li class="tab-2" ><a class="" href="https://chengdu.anjuke.com/sale/"target="_blank">成都二手房</a></li><li class="tab-2" ><a class="" href="https://hf.anjuke.com/sale/"target="_blank">合肥二手房</a></li><li class="tab-2" ><a class="" href="https://qd.anjuke.com/sale/"target="_blank">青岛二手房</a></li><li class="tab-2" ><a class="" href="https://shenzhen.anjuke.com/sale/"target="_blank">深圳二手房</a></li><li class="tab-2" ><a class="" href="https://chongqing.anjuke.com/sale/"target="_blank">重庆二手房</a></li><li class="tab-2" ><a class="" href="https://suzhou.anjuke.com/sale/"target="_blank">苏州二手房</a></li><li class="tab-2" ><a class="" href="https://tianjin.anjuke.com/sale/"target="_blank">天津二手房</a></li><li class="tab-2" ><a class="" href="https://sanya.anjuke.com/sale/"target="_blank">三亚二手房</a></li><li class="tab-2" ><a class="" href="https://xm.anjuke.com/sale/"target="_blank">厦门二手房</a></li><li class="tab-2" ><a class="" href="https://km.anjuke.com/sale/"target="_blank">昆明二手房</a></li><li class="tab-2" ><a class="" href="https://zs.anjuke.com/sale/"target="_blank">中山二手房</a></li><li class="tab-2" ><a class="" href="https://jinan.anjuke.com/sale/"target="_blank">济南二手房</a></li><li class="tab-2" ><a class="" href="https://dalian.anjuke.com/sale/"target="_blank">大连二手房</a></li><li class="tab-2" ><a class="" href="https://wuhan.anjuke.com/sale/"target="_blank">武汉二手房</a></li><li class="tab-2" ><a class="" href="https://sy.anjuke.com/sale/"target="_blank">沈阳二手房</a></li><li class="tab-2" ><a class="" href="https://nc.anjuke.com/sale/"target="_blank">南昌二手房</a></li><li class="tab-2" ><a class="" href="https://xa.anjuke.com/sale/"target="_blank">西安二手房</a></li><li class="tab-2" ><a class="" href="https://nanjing.anjuke.com/sale/"target="_blank">南京二手房</a></li><li class="tab-2" ><a class="" href="https://zhengzhou.anjuke.com/sale/"target="_blank">郑州二手房</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/sale/"target="_blank">长沙二手房</a></li><li class="tab-2" ><a class="" href="https://sjz.anjuke.com/sale/"target="_blank">石家庄二手房</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="javascript:void(0)"target="_blank">星沙</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">长沙县</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">岳麓</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">开福</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">浏阳</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">宁乡</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">天心</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">望城</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">雨花</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)">芙蓉</a></li><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/kaiyuanlu/"target="_blank">开元路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/quantanga/"target="_blank">泉塘房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wanjialibeilu/"target="_blank">万家丽北路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/songyahu/"target="_blank">松雅湖房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/zhongnan/"target="_blank">中南房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/mingchengguoji/"target="_blank">明城国际房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/changshaxianzhoubian/"target="_blank">长沙县周边房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/tongzipo/"target="_blank">桐梓坡房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yinpenling/"target="_blank">银盆岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/gushansenlingongyuan/"target="_blank">谷山森林公园房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/leifengdadaos/"target="_blank">雷锋大道房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/hanpu/"target="_blank">含浦房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shizhengfua/"target="_blank">市政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/fenglinsanlu/"target="_blank">枫林三路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/hexiwangfujin/"target="_blank">河西王府井房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/guanshaling/"target="_blank">观沙岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yuelushandaxuecheng/"target="_blank">岳麓山大学城房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/meixihu/"target="_blank">梅溪湖房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yanghu/"target="_blank">洋湖房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wangchengpoxizhan/"target="_blank">望城坡西站房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/binjiangxinqu/"target="_blank">滨江新区房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/lugua/"target="_blank">麓谷房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yanghushidigongyuan/"target="_blank">洋湖湿地公园房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xihugongyuant/"target="_blank">西湖公园房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/dawangdi/"target="_blank">大王山房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yueluzhoubian/"target="_blank">岳麓周边房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wujialing/"target="_blank">伍家岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/sifangping/"target="_blank">四方坪房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xiangjiangbeilu/"target="_blank">湘江北路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/kaifuquzhengfu/"target="_blank">开福区政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/guangdianzhongxin/"target="_blank">广电中心房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xiufengshangongyuan/"target="_blank">秀峰山公园房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xinhesanjiaozhou/"target="_blank">新河三角洲房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xjzl/"target="_blank">湘江中路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/furongzhonglu/"target="_blank">芙蓉中路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/laodaohezhen/"target="_blank">捞刀河镇房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yuhudashichang/"target="_blank">月湖大市场房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/dongfanglu/"target="_blank">东风路房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/liuyangs/"target="_blank">浏阳房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/laochengquc/"target="_blank">老城区房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xinchengqua/"target="_blank">新城区房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/dongchengqua/"target="_blank">东城区房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/nanchengqub/"target="_blank">南城区房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/ningxiangzhoubian/"target="_blank">宁乡周边房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/houjiatang/"target="_blank">侯家塘房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/muyun/"target="_blank">暮云房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/jinpenling/"target="_blank">金盆岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/zhongxinxincheng/"target="_blank">中信新城房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/tianxinquzhengfu/"target="_blank">天心区政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/xinkaipu/"target="_blank">新开铺房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shuyuanlub/"target="_blank">书院路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shengzhengfunan/"target="_blank">省政府南房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/tiedaoxueyuan/"target="_blank">铁道学院房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shangshuangtang/"target="_blank">尚双塘房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/youyiluj/"target="_blank">友谊路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shengzhengfua/"target="_blank">省政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/huangxinglubuxingjie/"target="_blank">黄兴路步行街房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/baishalu/"target="_blank">白沙路房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/jinxingbeij/"target="_blank">金星北房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/puruidadao/"target="_blank">普瑞大道房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/quzhengfu/"target="_blank">区政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yueliangdao/"target="_blank">月亮岛房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wangchengzhoubian/"target="_blank">望城周边房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/jingwanzi/"target="_blank">井湾子房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/tiyuxincheng/"target="_blank">体育新城房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shidaoyangguangdadao/"target="_blank">时代阳光大道房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/hongxingcun/"target="_blank">红星村房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/chigangchong/"target="_blank">赤岗冲房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shumuling/"target="_blank">树木岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shaoshannanlu/"target="_blank">韶山南路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/shangdong/"target="_blank">尚东房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yuhuating/"target="_blank">雨花亭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/qichenanzhan/"target="_blank">汽车南站房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wuguangxincheng/"target="_blank">武广新城房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yaolinga/"target="_blank">窑岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/changling/"target="_blank">长岭房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yuhuaquzhengfu/"target="_blank">雨花区政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/dongtang/"target="_blank">东塘房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/huanbaokejiyuan/"target="_blank">环保科技园房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/gaoqiaodashichang/"target="_blank">高桥大市场房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/zuojiatang/"target="_blank">左家塘房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/watanghe/"target="_blank">圭塘河房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/yuhuazhoubian/"target="_blank">雨花周边房价</a></li></ul><ul class="parent-3 "><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/furongquzhengfu/"target="_blank">芙蓉区政府房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/renmindongludongduan/"target="_blank">人民东路东段房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/liuyanghepan/"target="_blank">浏阳河畔房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/mawangdui/"target="_blank">马王堆房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/renmingdonglu/"target="_blank">人民东路房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/chezhanbei/"target="_blank">车站北房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/huochezhanb/"target="_blank">火车站房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/liuchengqiaoa/"target="_blank">浏城桥房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wuyiguangchangab/"target="_blank">五一广场房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/qichedongzhanbankuai/"target="_blank">汽车东站房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/wanbaodadao/"target="_blank">晚报大道房价</a></li><li class="tab-3" ><a class="" href="https://cs.anjuke.com/market/rongyuan/"target="_blank">蓉园房价</a></li></ul></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://shanghai.anjuke.com/bangdan/"target="_blank">上海房价排行榜</a></li><li class="tab-2" ><a class="" href="https://beijing.anjuke.com/bangdan/"target="_blank">北京房价排行榜</a></li><li class="tab-2" ><a class="" href="https://chongqing.anjuke.com/bangdan/"target="_blank">重庆房价排行榜</a></li><li class="tab-2" ><a class="" href="https://dalian.anjuke.com/bangdan/"target="_blank">大连房价排行榜</a></li><li class="tab-2" ><a class="" href="https://nanjing.anjuke.com/bangdan/"target="_blank">南京房价排行榜</a></li><li class="tab-2" ><a class="" href="https://shenzhen.anjuke.com/bangdan/"target="_blank">深圳房价排行榜</a></li><li class="tab-2" ><a class="" href="https://tianjin.anjuke.com/bangdan/"target="_blank">天津房价排行榜</a></li><li class="tab-2" ><a class="" href="https://hangzhou.anjuke.com/bangdan/"target="_blank">杭州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://fz.anjuke.com/bangdan/"target="_blank">福州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://guangzhou.anjuke.com/bangdan/"target="_blank">广州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://suzhou.anjuke.com/bangdan/"target="_blank">苏州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://wuhan.anjuke.com/bangdan/"target="_blank">武汉房价排行榜</a></li><li class="tab-2" ><a class="" href="https://ks.anjuke.com/bangdan/"target="_blank">昆山房价排行榜</a></li><li class="tab-2" ><a class="" href="https://taizhou.anjuke.com/bangdan/"target="_blank">泰州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://nanning.anjuke.com/bangdan/"target="_blank">南宁房价排行榜</a></li><li class="tab-2" ><a class="" href="https://guilin.anjuke.com/bangdan/"target="_blank">桂林房价排行榜</a></li><li class="tab-2" ><a class="" href="https://sanya.anjuke.com/bangdan/"target="_blank">三亚房价排行榜</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/bangdan/"target="_blank">长沙房价排行榜</a></li><li class="tab-2" ><a class="" href="https://lanzhou.anjuke.com/bangdan/"target="_blank">兰州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://yichang.anjuke.com/bangdan/"target="_blank">宜昌房价排行榜</a></li><li class="tab-2" ><a class="" href="https://huizhou.anjuke.com/bangdan/"target="_blank">惠州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://cz.anjuke.com/bangdan/"target="_blank">常州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://nantong.anjuke.com/bangdan/"target="_blank">南通房价排行榜</a></li><li class="tab-2" ><a class="" href="https://weifang.anjuke.com/bangdan/"target="_blank">潍坊房价排行榜</a></li><li class="tab-2" ><a class="" href="https://xuzhou.anjuke.com/bangdan/"target="_blank">徐州房价排行榜</a></li><li class="tab-2" ><a class="" href="https://hf.anjuke.com/bangdan/"target="_blank">合肥房价排行榜</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/"target="_blank">全国历史房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2021/"target="_blank">2021年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2020/"target="_blank">2020年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2019/"target="_blank">2019年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2018/"target="_blank">2018年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2017/"target="_blank">2017年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2016/"target="_blank">2016年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2015/"target="_blank">2015年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2014/"target="_blank">2014年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2013/"target="_blank">2013年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/quanguo2012/"target="_blank">2012年全国房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2021/"target="_blank">2021年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2020/"target="_blank">2020年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2019/"target="_blank">2019年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2018/"target="_blank">2018年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2017/"target="_blank">2017年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2016/"target="_blank">2016年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2015/"target="_blank">2015年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2014/"target="_blank">2014年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2013/"target="_blank">2013年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/hunan2012/"target="_blank">2012年湖南房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2021/"target="_blank">2021年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2020/"target="_blank">2020年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2019/"target="_blank">2019年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2018/"target="_blank">2018年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2017/"target="_blank">2017年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2016/"target="_blank">2016年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2015/"target="_blank">2015年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2014/"target="_blank">2014年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2013/"target="_blank">2013年长沙房价</a></li><li class="tab-2" ><a class="" href="https://mobile.anjuke.com/fangjia/cs2012/"target="_blank">2012年长沙房价</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/"target="_blank">全国历史房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2021/"target="_blank">2021年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2020/"target="_blank">2020年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2019/"target="_blank">2019年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2018/"target="_blank">2018年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2017/"target="_blank">2017年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2016/"target="_blank">2016年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2015/"target="_blank">2015年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2014/"target="_blank">2014年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2013/"target="_blank">2013年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/quanguo2012/"target="_blank">2012年全国房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2021/"target="_blank">2021年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2020/"target="_blank">2020年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2019/"target="_blank">2019年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2018/"target="_blank">2018年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2017/"target="_blank">2017年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2016/"target="_blank">2016年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2015/"target="_blank">2015年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2014/"target="_blank">2014年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2013/"target="_blank">2013年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/hunan2012/"target="_blank">2012年湖南房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2021/"target="_blank">2021年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2020/"target="_blank">2020年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2019/"target="_blank">2019年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2018/"target="_blank">2018年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2017/"target="_blank">2017年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2016/"target="_blank">2016年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2015/"target="_blank">2015年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2014/"target="_blank">2014年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2013/"target="_blank">2013年长沙房价</a></li><li class="tab-2" ><a class="" href="https://www.anjuke.com/fangjia/cs2012/"target="_blank">2012年长沙房价</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://m.anjuke.com/sh/trendency/"target="_blank">上海房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/qd/trendency/"target="_blank">青岛房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/nj/trendency/"target="_blank">南京房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cd/trendency/"target="_blank">成都房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/tj/trendency/"target="_blank">天津房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/dl/trendency/"target="_blank">大连房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/gz/trendency/"target="_blank">广州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hz/trendency/"target="_blank">杭州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/sz/trendency/"target="_blank">深圳房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/wh/trendency/"target="_blank">武汉房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/su/trendency/"target="_blank">苏州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cq/trendency/"target="_blank">重庆房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/fs/trendency/"target="_blank">佛山房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/dg/trendency/"target="_blank">东莞房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cs/trendency/"target="_blank">长沙房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/bj/trendency/"target="_blank">北京房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/xm/trendency/"target="_blank">厦门房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/sjz/trendency/"target="_blank">石家庄房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/wx/trendency/"target="_blank">无锡房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/sy/trendency/"target="_blank">三亚房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hui/trendency/"target="_blank">惠州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/zh/trendency/"target="_blank">珠海房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/jn/trendency/"target="_blank">济南房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/ty/trendency/"target="_blank">太原房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hai/trendency/"target="_blank">海口房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/shen/trendency/"target="_blank">沈阳房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/xa/trendency/"target="_blank">西安房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/zz/trendency/"target="_blank">郑州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/hf/trendency/"target="_blank">合肥房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/ks/trendency/"target="_blank">昆山房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/heb/trendency/"target="_blank">哈尔滨房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/fz/trendency/"target="_blank">福州房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/km/trendency/"target="_blank">昆明房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/cc/trendency/"target="_blank">长春房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/nc/trendency/"target="_blank">南昌房价</a></li><li class="tab-2" ><a class="" href="https://m.anjuke.com/nn/trendency/"target="_blank">南宁房价</a></li></ul><ul class="parent-2 "><li class="tab-2" ><a class="" href="https://cs.anjuke.com/bangdan/zuidi/"target="_blank">长沙房价最低</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/bangdan/zuigao/"target="_blank">长沙房价最高</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/bangdan/shangzhang/"target="_blank">长沙房价上涨</a></li><li class="tab-2" ><a class="" href="https://cs.anjuke.com/bangdan/xiadie/"target="_blank">长沙房价下跌</a></li></ul></li></ul></div>
+
+<script>
+    var AJK = AJK || {};
+    AJK.SeoRecommend = AJK.SeoRecommend || {};
+    AJK.SeoRecommend.type = '';
+</script>
+
+    <div class="partner">
+    <h5 class="partner-title">合作伙伴：</h5>
+    <ul class="partner-cont">
+	    		    <li><a href="http://cs.jiwu.com/fangjia/" target="_blank">长沙房价</a></li>
+	    		    <li><a href="http://cs.58.com/fangjia/" target="_blank">长沙房价</a></li>
+	    		    <li><a href="http://www.yingmoo.com/changsha/" target="_blank">长沙户外广告</a></li>
+	    		    <li><a href="http://changsha.cncn.com/lvyougonglue/" target="_blank">长沙自助游攻略</a></li>
+	    		    <li><a href="http://cs.cityhouse.cn/market/" target="_blank">长沙房价</a></li>
+	    		    <li><a href="http://changsha.baixing.com/duanzu/" target="_blank">长沙租房</a></li>
+	    		    <li><a href="http://www.qunar.com/zt/changsha/" target="_blank">长沙旅游</a></li>
+	    		    <li><a href="http://www.ttpai.cn/changsha" target="_blank">长沙二手车交易市场</a></li>
+	    		    <li><a href="https://cs.5i5j.com/xiaoqu/" target="_blank">长沙小区</a></li>
+	    		    <li><a href="http://cn.toursforfun.com/utah-tours/" target="_blank">犹他州旅游</a></li>
+	    		    <li><a href="http://www.city199.com/cs/" target="_blank">长沙99信息网</a></li>
+	    		    <li><a href="http://www.zhiding8.com/cs_zufang/" target="_blank">长沙租房</a></li>
+	    		    <li><a href="http://www.trustexporter.com/changsha/" target="_blank">长沙企业名录 </a></li>
+	    		    <li><a href="http://www.chacha8.cn/cs/" target="_blank">长沙分类信息</a></li>
+	    		    <li><a href="http://www.dongao.com/dw_zckjs_218/" target="_blank">长沙注册会计师</a></li>
+	    		    <li><a href="http://www.qianlima.com/hot111135/" target="_blank">长沙市房产交易中心</a></li>
+	    		    <li><a href="http://cs.loupan.com/xinfang/" target="_blank">长沙新房</a></li>
+	    		    <li><a href="http://www.yanedu.com/danganxue/" target="_blank">档案学在职研究生</a></li>
+	    		    <li><a href="https://www.lmjx.net/yhzaishengjixie_cimlineya/" target="_blank">辛美来亚再生机械</a></li>
+	    		    <li><a href="http://shop.jc001.cn/gc-001001002-r1-249/" target="_blank">长沙地板</a></li>
+	    		    <li><a href="http://product.net114.com/scat-tongyinshua.html" target="_blank">桶印刷</a></li>
+	    		    <li><a href="https://www.hudongba.com/changsha/" target="_blank">长沙互动吧</a></li>
+	    		    <li><a href="http://www.zhufaner.com/hncs/" target="_blank">长沙装修公司</a></li>
+	    		    <li><a href="https://www.dianzhangzhipin.com/c15/" target="_blank">长沙招聘</a></li>
+	    		    <li><a href="http://www.162945.com/changsha/" target="_blank">长沙天气预报30天</a></li>
+	    		    <li><a href="http://www.chacha8.cn/cs/" target="_blank">长沙生活服务</a></li>
+	    		    <li><a href="http://cs.jiwu.com/fangjia/" target="_blank">长沙房价</a></li>
+	        </ul>
+</div>
+
+
+    </div>
+    <div id="footer" class="footer">
+    <ul class="links">
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqList/defaultQue?faqKinds=2">关于安居客</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqDetail/queryDetail?faqId=95&faqTypeId=11">联系我们</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqDetail/queryDetail?faqId=104&faqTypeId=10">用户协议</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://kfzx.anjuke.com/faqDetail/queryDetail?faqId=228&faqTypeId=10">隐私政策</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="loan_link">房贷计算器</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="seo_qa">最新问答</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="map_link">网站地图</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="house_link">最新房源</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a href="javascript:void(0);" data-target="other_city">其它城市</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" href="https://cs.anjuke.com/friendlink">友情链接</a>
+            <em class="spe-lines">|</em>
+        </li>
+        <li>
+            <a rel="nofollow" target="_blank" href="http://www.zx110.org/cxs/index.html">放心搜</a>
+            <em class='spe-lines'>|</em>
+        </li>
+        <li>
+                    </li>
+        <li>
+            <a rel="nofollow" target="_blank" href="https://biz.anjuke.com/biz/index">渠道招商</a>
+            <em class='spe-lines'>|</em>
+        </li>
+        <li>
+            <a rel="nofollow" target="_blank" href="https://www.58che.com/">58车</a>
+        </li>
+    </ul>
+
+    <div id="loan_link" class="show-mod loan-link">
+        <ul>
+                            <li><a href="https://www.anjuke.com/calculator/loan" target="_blank">房贷计算器</a></li>
+                            <li><a href="https://www.anjuke.com/calculator/return" target="_blank">提前还款计算器</a></li>
+                            <li><a href="https://www.anjuke.com/calculator/qualify" target="_blank">购房能力评估计算器</a></li>
+                            <li><a href="https://www.anjuke.com/calculator/personal" target="_blank">公积金贷款计算器</a></li>
+                    </ul>
+    </div>
+
+    <div id="seo_qa" class="show-mod map-link">
+        <ul>
+                            <li><a href="https://www.anjuke.com/qa/" target="_blank">按时间查找房产问答</a></li>
+                            <li><a href="https://cs.anjuke.com/wenti/" target="_blank">按城市查找长沙房产问答</a></li>
+                            <li><a href="https://m.anjuke.com/qa/suoyin/" target="_blank">手机版按时间查找房产问题</a></li>
+                            <li><a href="https://m.anjuke.com/cs/wenti/" target="_blank">手机版按城市查找长沙房产问答</a></li>
+                    </ul>
+    </div>
+
+    <div id="map_link" class="show-mod map-link">
+        <ul>
+                            <li><a href="https://cs.anjuke.com/sitemap/" target="_blank">二手房地图</a></li>
+                            <li><a href="https://m.anjuke.com/cs/sitemap/" target="_blank">手机版二手房地图</a></li>
+                            <li><a href="https://cs.fang.anjuke.com/fangsitemap/A/" target="_blank">新房楼盘大全</a></li>
+                            <li><a href="https://m.anjuke.com/cs/xinfang/sitemap/" target="_blank">手机版新房地图</a></li>
+                            <li><a href="https://cs.fang.anjuke.com/fangsitemap/" target="_blank">新房地图</a></li>
+                            <li><a href="https://www.anjuke.com/cs/cm/" target="_blank">二手房小区大全</a></li>
+                            <li><a href="https://www.anjuke.com/cs/cm-zu/" target="_blank">租房小区大全</a></li>
+                            <li><a href="https://m.anjuke.com/cs/xiaoqu/" target="_blank">手机版小区大全</a></li>
+                            <li><a href="https://mobile.anjuke.com/esf/cs-cm/" target="_blank">长沙小区</a></li>
+                            <li><a href="https://cs.gongjijin.anjuke.com/" target="_blank">长沙公积金</a></li>
+                            <li><a href="https://cs.anjuke.com" target="_blank">长沙房产网</a></li>
+                            <li><a href="https://cs.fang.anjuke.com" target="_blank">长沙新房</a></li>
+                            <li><a href="https://cs.anjuke.com/sale/" target="_blank">长沙二手房</a></li>
+                            <li><a href="https://cs.zu.anjuke.com" target="_blank">长沙租房</a></li>
+                            <li><a href="https://cs.anjuke.com/market/" target="_blank">长沙房价</a></li>
+                            <li><a href="https://cs.anjuke.com/bieshu-sale/" target="_blank">长沙别墅出售</a></li>
+                            <li><a href="https://cs.anjuke.com/gongyu-sale/" target="_blank">长沙公寓出售</a></li>
+                            <li><a href="https://cs.zu.anjuke.com/gongyu-zufang/" target="_blank">长沙公寓出租</a></li>
+                            <li><a href="https://cs.zu.anjuke.com/hezu-zufang/" target="_blank">长沙合租房</a></li>
+                            <li><a href="https://cs.zu.anjuke.com/geren-zufang/" target="_blank">长沙个人租房</a></li>
+                            <li><a href="https://cs.zu.anjuke.com/bieshu-zufang/" target="_blank">长沙别墅出租</a></li>
+                            <li><a href="https://m.anjuke.com/cs" target="_blank">长沙房产网</a></li>
+                            <li><a href="https://m.anjuke.com/cs/sale/" target="_blank">长沙二手房</a></li>
+                            <li><a href="https://m.anjuke.com/cs/rent/" target="_blank">长沙租房</a></li>
+                            <li><a href="https://m.anjuke.com/cs/trendency/" target="_blank">长沙房价</a></li>
+                            <li><a href="https://m.anjuke.com/cs/qa/" target="_blank">长沙问答</a></li>
+                    </ul>
+    </div>
+
+    <div id="house_link" class="show-mod house-link">
+        <ul>
+                            <li><a href="https://cs.anjuke.com/fang/" target="_blank">二手房</a></li>
+                            <li><a href="https://cs.zu.anjuke.com/fang/" target="_blank">租房</a></li>
+                            <li><a href="https://m.anjuke.com/cs/propsitemap/esf/" target="_blank">手机版二手房</a></li>
+                            <li><a href="https://m.anjuke.com/cs/propsitemap/zf/" target="_blank">手机版租房</a></li>
+                            <li><a href="https://cs.fang.anjuke.com/fang/" target="_blank">新房</a></li>
+                    </ul>
+    </div>
+
+    <div id="other_city" class="show-mod other-city">
+        <ul>
+                        <li><a href="https://shanghai.anjuke.com">上海房产网</a></li>
+                        <li><a href="https://shanghai.anjuke.com/sale/">上海二手房</a></li>
+                        <li><a href="https://guangzhou.anjuke.com">广州房产网</a></li>
+                        <li><a href="https://guangzhou.anjuke.com/sale/">广州二手房</a></li>
+                        <li><a href="https://shenzhen.anjuke.com">深圳房产网</a></li>
+                        <li><a href="https://shenzhen.anjuke.com/sale/">深圳二手房</a></li>
+                        <li><a href="https://beijing.anjuke.com">北京房产网</a></li>
+                        <li><a href="https://beijing.anjuke.com/sale/">北京二手房</a></li>
+                        <li><a href="https://chengdu.anjuke.com">成都房产网</a></li>
+                        <li><a href="https://chengdu.anjuke.com/sale/">成都二手房</a></li>
+                        <li><a href="https://nanjing.anjuke.com">南京房产网</a></li>
+                        <li><a href="https://nanjing.anjuke.com/sale/">南京二手房</a></li>
+                        <li><a href="https://tianjin.anjuke.com">天津房产网</a></li>
+                        <li><a href="https://tianjin.anjuke.com/sale/">天津二手房</a></li>
+                        <li><a href="https://hangzhou.anjuke.com">杭州房产网</a></li>
+                        <li><a href="https://hangzhou.anjuke.com/sale/">杭州二手房</a></li>
+                        <li><a href="https://suzhou.anjuke.com">苏州房产网</a></li>
+                        <li><a href="https://suzhou.anjuke.com/sale/">苏州二手房</a></li>
+                        <li><a href="https://chongqing.anjuke.com">重庆房产网</a></li>
+                        <li><a href="https://chongqing.anjuke.com/sale/">重庆二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sy/sale/">三亚二手房</a></li>
+                        <li><a href="https://m.anjuke.com/xm/sale/">厦门二手房</a></li>
+                        <li><a href="https://m.anjuke.com/zh/sale/">珠海二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hui/sale/">惠州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sh/sale/">上海二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sz/sale/">深圳二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hai/sale/">海口二手房</a></li>
+                        <li><a href="https://m.anjuke.com/bj/sale/">北京二手房</a></li>
+                        <li><a href="https://m.anjuke.com/sjz/sale/">石家庄二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hz/sale/">杭州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/gz/sale/">广州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/su/sale/">苏州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/nj/sale/">南京二手房</a></li>
+                        <li><a href="https://m.anjuke.com/tj/sale/">天津二手房</a></li>
+                        <li><a href="https://m.anjuke.com/ks/sale/">昆山二手房</a></li>
+                        <li><a href="https://m.anjuke.com/dg/sale/">东莞二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cc/sale/">长春二手房</a></li>
+                        <li><a href="https://m.anjuke.com/zz/sale/">郑州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/heb/sale/">哈尔滨二手房</a></li>
+                        <li><a href="https://m.anjuke.com/ty/sale/">太原二手房</a></li>
+                        <li><a href="https://m.anjuke.com/dl/sale/">大连二手房</a></li>
+                        <li><a href="https://m.anjuke.com/nn/sale/">南宁二手房</a></li>
+                        <li><a href="https://m.anjuke.com/hf/sale/">合肥二手房</a></li>
+                        <li><a href="https://m.anjuke.com/fz/sale/">福州二手房</a></li>
+                        <li><a href="https://m.anjuke.com/qd/sale/">青岛二手房</a></li>
+                        <li><a href="https://m.anjuke.com/jn/sale/">济南二手房</a></li>
+                        <li><a href="https://m.anjuke.com/km/sale/">昆明二手房</a></li>
+                        <li><a href="https://m.anjuke.com/wh/sale/">武汉二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cs/sale/">长沙二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cq/sale/">重庆二手房</a></li>
+                        <li><a href="https://m.anjuke.com/shen/sale/">沈阳二手房</a></li>
+                        <li><a href="https://m.anjuke.com/xa/sale/">西安二手房</a></li>
+                        <li><a href="https://m.anjuke.com/fs/sale/">佛山二手房</a></li>
+                        <li><a href="https://m.anjuke.com/nc/sale/">南昌二手房</a></li>
+                        <li><a href="https://m.anjuke.com/wx/sale/">无锡二手房</a></li>
+                        <li><a href="https://m.anjuke.com/cd/sale/">成都二手房</a></li>
+                        <li><a href="https://beijing.gongjijin.anjuke.com/">北京公积金</a></li>
+                        <li><a href="https://chengdu.gongjijin.anjuke.com/">成都公积金</a></li>
+                        <li><a href="https://guangzhou.gongjijin.anjuke.com/">广州公积金</a></li>
+                        <li><a href="https://hangzhou.gongjijin.anjuke.com/">杭州公积金</a></li>
+                        <li><a href="https://nanjing.gongjijin.anjuke.com/">南京公积金</a></li>
+                        <li><a href="https://shanghai.gongjijin.anjuke.com/">上海公积金</a></li>
+                        <li><a href="https://shenzhen.gongjijin.anjuke.com/">深圳公积金</a></li>
+                        <li><a href="https://suzhou.gongjijin.anjuke.com/">苏州公积金</a></li>
+                        <li><a href="https://tianjin.gongjijin.anjuke.com/">天津公积金</a></li>
+                        <li><a href="https://chongqing.gongjijin.anjuke.com/">重庆公积金</a></li>
+                    </ul>
+    </div>
+
+    <div class="cp-mod">
+        <a rel="nofollow" href="https://kfzx.anjuke.com/" target="_blank">客户服务中心</a>&ensp;&ensp;&ensp;
+        违法信息举报：&ensp;4006209008&ensp;<a href="mailto:yinsibaohu@58.com" target="_blank" rel="nofollow">yinsibaohu@58.com</a>&ensp;&ensp;&ensp;
+        Copyright&nbsp;&copy;&nbsp;2007-2021&ensp;www.anjuke.com&ensp;All Rights Reserved&ensp;&ensp;&ensp;<a href="https://www.anjuke.com/sitemap-miibeian" rel="nofollow">ICP号：沪&ensp;B2-20090008</a>
+    </div>
+
+    
+    </div>
+    <!-- 侧边栏 -->
+        
+
+<script type="text/javascript" crossorigin src="https://pages.anjukestatic.com/usersite/site/js/jquery/1.11.3/jquery-underscore.min.js"></script>
+<script type="text/javascript" crossorigin src="https://pages.anjukestatic.com/usersite/site/js/bbv10.js"></script>
+<script type="text/javascript" crossorigin src="https://include.anjukestatic.com/anjuke-user/res/20210610.9657.0/s/page/pc/layout/../../../component/user/component/soj/bb.js"></script>
+<script type="text/javascript" crossorigin src="//pages.anjukestatic.com/usersite/site/js/highcharts/highcharts.js"></script>
+<script type="text/javascript" crossorigin src="https://include.anjukestatic.com/anjuke-user/res/20210610.9657.0/b/Ershou_Web_Market_Market.js"></script>
+<script type="text/javascript">
+
+$(function(){
+    ajk.citySelector = new ajk.DropDown($('#switch_apf_id_5'),$('#city_list'),500);
+});
+
+    (function(){
+        drawChart({
+            id:'regionChart',
+            type : 'line',
+            xdata:["7\u6708","8\u6708","9\u6708","10\u6708","11\u6708","12\u6708","1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+            xyear:{"7\u6708":"2020\u5e74","8\u6708":"2020\u5e74","9\u6708":"2020\u5e74","10\u6708":"2020\u5e74","11\u6708":"2020\u5e74","12\u6708":"2020\u5e74","1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+            ydata:[{"name":"\u957f\u6c99","data":[10049,10122,10124,10071,10089,10151,10205,10383,10370,10368,10382,10386]}]
+        });
+
+                    drawChart({
+                id:'commChart1',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u94b0\u9f99\u5929\u4e0b\u4f73\u56ed(\u4e8c\u671f)","data":[22835,23208,24717,27696,28847,29369]}]
+            });
+                    drawChart({
+                id:'commChart2',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u6052\u5927\u540d\u90fd","data":[8436,8377,8388,8439,8460,8467]}]
+            });
+                    drawChart({
+                id:'commChart3',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u5cb3\u9e93\u6052\u5927\u534e\u5e9c","data":[18270,18290,18673,19477,20022,20223]}]
+            });
+                    drawChart({
+                id:'commChart4',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u516b\u65b9\u5c0f\u533aA\u533a","data":[30132,30285,31339,32468,32833,33094]}]
+            });
+                    drawChart({
+                id:'commChart5',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u4fdd\u5229\u9e93\u8c37\u6797\u8bed","data":[11966,11960,12087,12214,12369,12427]}]
+            });
+                    drawChart({
+                id:'commChart6',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u4e2d\u5efa\u8299\u84c9\u5609\u82d1","data":[12634,12708,12689,12737,12956,13049]}]
+            });
+                    drawChart({
+                id:'commChart7',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u7687\u5ead\u5c1a\u54c1","data":[7487,7503,7825,7625,7467,7437]}]
+            });
+                    drawChart({
+                id:'commChart8',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u94b0\u9f99\u5929\u4e0b","data":[24080,24128,25690,27649,29635,30023]}]
+            });
+                    drawChart({
+                id:'commChart9',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u5c71\u6c34\u6e7e","data":[9266,9434,9378,9338,9416,9404]}]
+            });
+                    drawChart({
+                id:'commChart10',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u516b\u65b9\u5c0f\u533aD\u533a","data":[30328,30383,31411,32390,32869,32831]}]
+            });
+                    drawChart({
+                id:'commChart11',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u4e2d\u7cae\u5317\u7eac28\u5ea6","data":[20621,20950,20536,20541,21394,21865]}]
+            });
+                    drawChart({
+                id:'commChart12',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u9633\u5149\u57ce\u6eaa\u5c71\u60a6","data":[10734,10817,10951,10975,10952,10992]}]
+            });
+                    drawChart({
+                id:'commChart13',
+                xdata:["1\u6708","2\u6708","3\u6708","4\u6708","5\u6708","6\u6708"],
+                xyear:{"1\u6708":"2021\u5e74","2\u6708":"2021\u5e74","3\u6708":"2021\u5e74","4\u6708":"2021\u5e74","5\u6708":"2021\u5e74","6\u6708":"2021\u5e74"},
+                ydata:[{"name":"\u5408\u80fd\u6d0b\u6e56\u516c\u9986","data":[13363,13463,15210,17388,22189,22782]}]
+            });
+            })();
+
+    $(function(){
+        new ajk.UserLogin({
+            userbox:'#user_box',
+            getUserInfo:function(da,callback){
+                 $.post("https://user.anjuke.com"+'/ajax/checkMenu/'+'?r='+Math.random(),
+                    function(r){
+                        callback(r);
+                    },'jsonp')
+            }
+        });
+    });
+
+    $(function() {
+        var tracker_exp = new SiteTracker("anjuke-npv");
+        tracker_exp.setPage("Ershou_Web_Market_MarketPage");
+        tracker_exp.setPageName("Ershou_Web_Market_MarketPage");
+        tracker_exp.setReferer(document.referrer);
+        tracker_exp.setNGuid("aQQ_ajkguid");
+        tracker_exp.setNUid("ajk_member_id");
+
+        tracker_exp.setCustomParam('{"hpPage":"Anjuke_Hp_View","entry":17,"proids":"5768907185|5786039|254927|2,5720401681|6100260|254927|2,5710038481|6100260|254927|2,5763068997|5786039|254927|2,5754061510|200410268|1039100|2,5754633047|100718493|1039100|2,5754246363|6895032|1039100|2,5765844141|5467841|1039100|2,5776257774|200467484|458780|2,5778042489|200093315|458780|2,5762821497|5381890|458780|2,5761471881|200467484|458780|2,5570462702|101271040|255548|1,5741599127|2571457|255548|1,5733735415|100383330|255548|1,5492340384|5854188|255548|1,5700064949|4091123|805620|1,5639284744|4315354|805620|1,5735011775|101546690|805620|1,5744531872|4011880|805620|1,5641164436|200707405|584644|1,5643865204|200512968|584644|1,5771678325|7652444|254453|2,5765509932|5467841|254453|2,5769321156|200664306|254453|2,5777502846|7131440|254453|2,5620048397|200523683|1376427|2,5740901904|200957433|1376427|2,5758002494|200960439|1376427|2,5716647941|101595835|1376427|2,5754639814|100718493|811503|2,5754547834|7171837|811503|2,5754643568|5467841|811503|2,5709670028|100652946|811503|2,5772500206|101531697|914924|2,5774536846|3395792|914924|2,5775321903|200233569|914924|2,5768265390|200518323|914924|2,5752273910|200983465|1378069|2,5623368701|200415633|1378069|2,5637250892|200491426|1378069|2,5728029871|100027659|1378069|25,5689668645|101020662|271071|2,5629774490|200549273|271071|2,5765573744|5467841|271071|2,5766051923|200410268|271071|2,5766096177|3528483|293176|2,5763599002|1548362|293176|2,5777254798|2645022|293176|2,5767670819|1548362|293176|2","v":"2.0"}');
+        tracker_exp.setExposureParams("{\"tid\":\"2024492579347463,2c044648-7e0f-4f81-bcd3-229f924f59e3|1989600370106380,da57a267-622c-4293-b770-8656ef755bae|1982587617715205,56fa9cb5-1dd5-477d-be1a-ec25a5af3006|2020323301579789,39b6bda5-5e7e-46df-bbf8-ca8a1a036cda|2013426459991055,8a785b23-c096-4230-ada6-3be1676b0a56|2013750532612102,5448e664-7050-4b83-85c5-bb57366362ce|2013520802882574,312c17ed-fcb0-4830-92d9-4b7b45e4deef|2022051741048834,60aafd2f-a1d0-4efe-9c15-0997ef9c54e4|2030130659697674,81e58f9d-685c-4bc5-90f0-71e844103437|2031495978902529,9122c151-4256-4731-ab34-f86c2efc3368|2020246454951939,248d1b1e-0d0d-405c-9066-4266cd619c9a|2019142294821899,c558860b-25d7-47c6-aa53-d815ccac36b7|1886195154134016,-|2004584614222854,-|1999022020404230,-|1804029773996041,-|1969351803184136,-|1932912615693321,-|1999614962670602,-|2006466983747588,-|1934251266448396,-|1936697113206796,-|2026454690259976,01ead986-d51e-4c01-bb09-8d7052e38c82|2021917416496135,e58b349c-c9cf-490b-8a90-1fd1211b8e62|2024726625443840,4b1afc14-a663-4730-a145-c84dfc340fdb|2030692228014083,1f6d63e9-6bae-4819-b8c6-0f06cc94593c|1920084183719944,acafea88-381d-437f-b86a-fc10de701c8b|2003679417345032,8a5da00f-756e-430c-97f6-cc51c1d52dca|2016454211641351,dd745a6b-773d-469d-a634-07705fbafece|1987589906392066,f047ac36-ceae-4c51-8712-edc1519f23f3|2013755581783042,0af60ed4-7250-4da5-bc01-19cf4e81468c|2013696224582666,47b56d7d-07b2-415c-8454-99d05b03a8cf|2013758285405190,5d3ccb6a-32e1-4617-92dc-7df8b5af2b2d|1982397331856393,37bc5434-28b3-4d70-a6bf-4e89ef94aba4|2027335952161794,5cde846a-a7b8-406b-bb37-899d107a9b6c|2028789226103816,6809e707-4184-46c6-9932-150bedc45a99|2029172070605838,211b9303-d5b4-4796-892d-a58e8eed697b|2023801431237645,1ee59779-1a6c-475c-9401-08fae60cfbd9|2012053163908096,52301725-84c6-49e9-af22-bb09702b0a83|1922529545641997,53a3991e-1630-49d8-8d21-44dc8a4b4404|1931673888137231,028ca8f6-e64f-44ad-b2bd-6fddb76c0d4b|1994809630071811,f9759749-031c-4a03-8fe9-0578ae310cae|1967870700511241,47ef92fe-0d74-4ddf-b3de-8ac5aab7b392|1926891621702663,7fa7470f-46da-4d99-b692-a7cd768e2e19|2021941796232206,ed76b815-75cb-42ed-9e82-16c8c8f4f43d|2022153764232199,251d611f-7c53-4e08-95b9-50fd12175dae|2022177105731595,bdf4365d-95b8-43dc-b672-358e8f751583|2020576746232840,4e03bd70-8f7f-4ee6-adc6-a1b631bf952a|2030558402781196,3aee23d2-c2e1-442d-b277-021b7845671f|2023399742546945,5b26558f-075c-4357-8fb4-a0dc2c4e89de\"}");
+        tracker_exp.track()
+    });
+</script>
+        <script>
+    ;(function(){
+        ajk.Logger.setSite('anjuke');
+        ajk.Logger.setPage('Ershou_Web_Market_MarketPage');
+        ajk.Logger.setPageName('Ershou_Web_Market_MarketPage');
+        ajk.Logger.setCtid('');
+        var sojData = {
+            'customparam':'{"hpPage":"Anjuke_Hp_View","entry":17,"proids":"5768907185|5786039|254927|2,5720401681|6100260|254927|2,5710038481|6100260|254927|2,5763068997|5786039|254927|2,5754061510|200410268|1039100|2,5754633047|100718493|1039100|2,5754246363|6895032|1039100|2,5765844141|5467841|1039100|2,5776257774|200467484|458780|2,5778042489|200093315|458780|2,5762821497|5381890|458780|2,5761471881|200467484|458780|2,5570462702|101271040|255548|1,5741599127|2571457|255548|1,5733735415|100383330|255548|1,5492340384|5854188|255548|1,5700064949|4091123|805620|1,5639284744|4315354|805620|1,5735011775|101546690|805620|1,5744531872|4011880|805620|1,5641164436|200707405|584644|1,5643865204|200512968|584644|1,5771678325|7652444|254453|2,5765509932|5467841|254453|2,5769321156|200664306|254453|2,5777502846|7131440|254453|2,5620048397|200523683|1376427|2,5740901904|200957433|1376427|2,5758002494|200960439|1376427|2,5716647941|101595835|1376427|2,5754639814|100718493|811503|2,5754547834|7171837|811503|2,5754643568|5467841|811503|2,5709670028|100652946|811503|2,5772500206|101531697|914924|2,5774536846|3395792|914924|2,5775321903|200233569|914924|2,5768265390|200518323|914924|2,5752273910|200983465|1378069|2,5623368701|200415633|1378069|2,5637250892|200491426|1378069|2,5728029871|100027659|1378069|25,5689668645|101020662|271071|2,5629774490|200549273|271071|2,5765573744|5467841|271071|2,5766051923|200410268|271071|2,5766096177|3528483|293176|2,5763599002|1548362|293176|2,5777254798|2645022|293176|2,5767670819|1548362|293176|2","v":"2.0"}'
+        }
+        ajk.Logger.sendSoj(sojData);
+    })();
+    </script>
+    <!-- START: 性能测试监控 -->
+    <script>
+        $(function(){
+            var v = "1501241237",
+                src = "//pages.anjukestatic.com/prism/performance.js?v="+v;
+            $.ajax({
+              url: src,
+              dataType: "script",
+              cache:true,
+              success: function(){
+                window.perfConfig = {
+                    pageName : 'Ershou_Web_Market_MarketPage',
+                    siteName : 'ershoufang'
+                };
+              }
+            });
+        });
+    </script>
+    <!-- END: 性能测试监控 -->
+
+        <!-- 初始化曝光 -->
+    <script>
+       $(function(){
+            ajk.exposure = new ajk.Logger.Exposure({
+                site:'anjuke-exposure-npv',
+                page:'Ershou_Web_Market_MarketPage',
+                pageName:'Ershou_Web_Market_MarketPage',
+                NGuid:'',
+                NUid:''
+            });
+            ajk.exposure.add($('[data-trace]'));
+        });
+    </script>
+    
+    <!-- <script type="text/javascript">
+(function(param){
+       var c = {query:[], args:param||{}};
+       c.query.push(["_setAccount","8"]);//固定参数
+       (window.__zpSMConfig = window.__zpSMConfig||[]).push(c);
+       var zp = document.createElement("script"); zp.type = "text/javascript"; zp.async = true;
+       zp.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//cdn.zampda.net/s.js";
+       var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(zp, s);
+}) (window.__zp_tag_params);
+</script>
+
+ -->
+
+    
+    <!-- 58反爬虫js，设备指纹js -->
+    <script type="text/javascript">
+        var xxfwConfig = {namespace:'anjuke_c_pc'};
+
+        function loadJs() {
+            // 设备指纹js
+            var element = document.createElement("script");
+            var now = new Date()
+            var timestamp=now.getFullYear() +''+now.getMonth() +''+now.getDate()+''+now.getHours();
+            var appKey = 'gk1leqzjj6u65bd2zbal';
+            element.src = "//j1.58cdn.com.cn/git/xxzl/teemo/teemo_init.js?dt="+timestamp+"&appkey="+appKey;
+            document.body.appendChild(element);
+
+            // 反爬虫js
+            // jQuery.getScript("https://pages.anjukestatic.com/usersite/site/js/xxfw.min.js");
+        }
+
+        if (!(navigator.userAgent.match(/miniprogram/i) || window.__wxjs_environment === 'miniprogram')) {
+            if (window.addEventListener) {
+                window.addEventListener("load", loadJs, false);
+            } else if (window.attachEvent) {
+                window.attachEvent("onload", loadJs);
+            } else {
+                window.onload = loadJs;
+            }
+        }
+    </script>
+
+    <script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+        <script type="text/javascript">
+        var userId = '0';
+        var isTest = /test/.test(document.domain)||/dev/.test(document.domain);
+        var appId = 6322339781814;
+        var projectId ='6289197098934';
+        var progectKey ='3kxpt7yb';
+        if(isTest){
+           appId = 6296943323570;
+           projectId = '6289210146098';
+           progectKey = 'w65br84t';
+        }
+        window.WMDA_SDK_CONFIG = ({
+            api_v: 1,
+            sdk_v: 0.1,
+            mode: 'report',
+            appid: appId,
+            key: progectKey,
+            project_id: projectId,
+            // cookie_domain: document.domain,   //58域下不需要该字段
+            cate_id: '',   //按需填写
+            page_extra: [{   //按需填写
+                key: 'pagename',
+                value: 'Ershou_Web_Market_MarketPage'
+            },{
+                key: 'city_id',
+                value: '27'
+            }],
+            user_extra: [{   //按需填写
+              key: 'guid',
+              value:'C9314718-A340-9E93-81BF-1A0A1E35AA38'
+            }],
+            channel: '',   //按需填写
+            getUserId: function() {
+                return userId;
+            }
+        });
+    </script>
+    <script type="text/javascript" src="//pages.anjukestatic.com/usersite/site/js/wmda_statistic_20190218.js" async defer></script>
+    <script type="text/javascript" src="https://pages.anjukestatic.com/usersite/ie/IE886SDK_20200313_01.js"></script>
+    <script type="text/javascript">
+        var IE886config = {
+            intervalDay: 1,
+            totalDay: 1000
+        };
+        IE886SDK(IE886config);
+    </script>
+</body>
+</html>
